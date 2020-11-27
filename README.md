@@ -52,8 +52,9 @@ git add .
 git commit -m "Jekyll new"
 ```
 
-Add github-pages gem dependency to `Gemfile` and run bundle install again
+Add github-pages gem dependency to `Gemfile` and comment out jekyll gem, then run bundle install again
 
+    # gem "jekyll", "~> 3.9.0"
     # gem "github-pages", group: :jekyll_plugins
     gem "github-pages", "~> 209", group: :jekyll_plugins
 
