@@ -74,3 +74,72 @@ sidebar_posts_max: 3
 
 # Plugin configuration
 # google_analytics: "..."
+
+# New directory structure
+collections_dir: content
+collections:
+  da:
+    output: true
+    permalink: /:collection/:slug
+    sort_by: index
+    # pages:
+    #   sort_by: position
+    #   order:
+    #     - references.md
+    #     - links.md
+    #     - about.md
+  en:
+    output: true
+    permalink: /:collection/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
+  -
+    scope:
+      path: ""
+      type: "da"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_da/pages"
+      type: "da"
+    values:
+      layout: "page"
+      lang: "da"
+      permalink: "/:slug"
+  -
+    scope:
+      path: "_da/posts"
+    values:
+      layout: "post"
+      lang: "da"
+      # permalink: /da/post/:slug
+      permalink: /news/:slug
+  -
+    scope:
+      path: ""
+      type: "en"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_en/pages"
+      type: "en"
+    values:
+      layout: "page"
+      lang: "en"
+      # permalink: "/en/:slug"
+  -
+    scope:
+      path: "_en/posts"
+    values:
+      layout: "post"
+      lang: "en"
+      permalink: /en/news/:slug

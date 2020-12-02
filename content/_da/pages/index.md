@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home_with_bg_image
+<!-- title: Home -->
 image_url: /assets/img/home_bg.jpg
 lang: da
+permalink: /
 ref: home
 ---
 
