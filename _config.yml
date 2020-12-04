@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   FoodEfficiency - Your professional business partner for quality,
   environmental and CSR related tasks within the food manufacturing industry
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://foodefficiency.dk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://foodefficiency.eu" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -70,10 +70,7 @@ languages:
 # paginate: 2
 # paginate_path: "/blog/page:num/" # will read blog/index.html (not translated?)
 show_excerpts: true
-sidebar_posts_max: 3
-
-# Plugin configuration
-# google_analytics: "..."
+sidebar_posts_limit: 3
 
 # New directory structure
 collections_dir: content
@@ -81,9 +78,9 @@ collections:
   da:
     output: true
     permalink: /:collection/:slug
-    sort_by: index
+    # sort_by: index
     # pages:
-    #   sort_by: position
+    #   sort_by: index
     #   order:
     #     - references.md
     #     - links.md
@@ -122,6 +119,7 @@ defaults:
       lang: "da"
       # permalink: /da/post/:slug
       permalink: /news/:slug
+      collection: "posts"
   -
     scope:
       path: ""
@@ -135,7 +133,7 @@ defaults:
     values:
       layout: "page"
       lang: "en"
-      # permalink: "/en/:slug"
+      permalink: "/en/:slug"
   -
     scope:
       path: "_en/posts"
