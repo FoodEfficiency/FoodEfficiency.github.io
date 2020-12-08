@@ -1,0 +1,21 @@
+// Placeholder to allow overriding predefined variables smoothly.
+
+// FoodEfficiency Customization overriding initialize defaults
+$content-width:    940px; // 800px;
+$sidebar-width: 220px;
+$spacing-unit: 1em; // 30px;
+
+$on-laptop:        $content-width; // 800px;
+$on-large:         $on-laptop;
+
+
+// FoodEfficiency Customization overriding skin defaults
+$brand-color:           #026873;
+$brand-color-light:     lighten($brand-color, 3%); // #026873;
+$brand-color-dark:      darken($brand-color, 25%); // #012340;
+$link-base-color:       $brand-color;
+$link-hover-color:      #bbbf45;
+
+$fe-navbar-background-color: #014c5e;
+$fe-sidebar-background: #f2f0ce;
+$transition: 280ms all 120ms ease-out;
