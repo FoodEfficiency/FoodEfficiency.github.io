@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/FoodEfficiency/minima.git
-  revision: d440f8a3b9141e3649deb1a2874e52e65af12787
+  remote: https://github.com/jekyll/minima.git
+  revision: 3cdd14dff1216f561c68329e0b7420c2dc9b796a
   specs:
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
