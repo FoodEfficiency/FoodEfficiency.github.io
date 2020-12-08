@@ -7,7 +7,7 @@ image_url: /assets/img/FoodEfficiency-StartUp.png
 ref: about
 ---
 
-# About - FoodEfficiency
+# FoodEfficiency - About
 
 ![Food Efficiency v/Karin Hansen - Start Up][1]
 **FoodEfficiency** was established in July 2012 as an independent consultant within quality, environment, working environment and sustainability. The customer base is primarily in the food supply chain where we have over 20 years of international experience.

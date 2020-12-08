@@ -1,6 +1,48 @@
 # I18n - Translations
+# Alternatively site.data.t[nav_language].global.language_select
+da:
+  global:
+    language_select: "Language:"
+    # danish: Dansk
+    # english: Engelsk
+  locale:
+    title: Dansk
+    # date_format: "%-d-%b-%Y"
+    img: /assets/img/da.png
+    url: /
+  pages:
+  posts:
+    next: Næste
+    prev: Forrige
+    more: Ældre nyheder...
+    title: Seneste nyheder
+    url: /news
+  sidebar:
+    pages:
+      title: Inspiration
+en:
+  global:
+    language_select: "Language:"
+    # danish: Danish
+    # english: English
+  locale:
+    title: English
+    # date_format: "%b %-d, %Y"
+    img: /assets/img/en.png
+    url: /en
+  pages:
+  posts:
+    next: Next
+    prev: Previous
+    more: Older news...
+    title: Latest news
+    url: /en/news
+  sidebar:
+    pages:
+      title: Inspiration
 
-# E.g. site.data.t.home.title[nav_language].label
+
+# Alternatively site.data.t.home.title[nav_language].label
 home:
   da:
     locale: "Language:"
@@ -8,27 +50,4 @@ home:
   en:
     locale: "Language:"
     title: Home
-posts:
-  da:
-    next: Næste
-    prev: Forrige
-  en:
-    next: Next
-    prev: Previous
-sidebar:
-  pages:
-    da:
-      title: Inspiration
-    en:
-      title: Inspiration
-  posts:
-    da:
-      date_format: "%b %Y"
-      more: Ældre nyheder...
-      title: Seneste nyheder
-      url: /news
-    en:
-      date_format: "%b %Y"
-      more: Older news...
-      title: Latest news
-      url: /en/news
+#...

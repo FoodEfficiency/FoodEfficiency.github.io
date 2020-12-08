@@ -50,34 +50,29 @@ exclude:
   - README.md
 
 # I18n - default language and definitions
-lang: da
-languages:
-  - da:
-    title: Dansk
-    img: /assets/img/da.png
-    lang: da
-    url: /
-    # posts_url: /news
-  - en:
-    title: English
-    img: /assets/img/en.png
-    lang: en
-    url: /en
-    # posts_url: /en/news
+# jekyll-multiple-languages-plugin or jekyll-polyglot settings:
+default_lang: "da"
+# default_locale_in_subfolder: true
+# exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
+languages: ["da", "en"]
+# lang_from_path: true
+# parallel_localization: true
 
 # News / Posts
 # Note: pagination cannot be used with permalink!
-# paginate: 2
-# paginate_path: "/blog/page:num/" # will read blog/index.html (not translated?)
+# paginate: 12
+# paginate_path: "/news/page:num/" # will read news/index.html (not translated?)
 show_excerpts: true
+sidebar_posts_date_format: "%b %Y"
 sidebar_posts_limit: 3
 
 # New directory structure
-collections_dir: content
+# collections_dir: ""
 collections:
   da:
     output: true
-    permalink: /:collection/:slug
+    # relative_directory: _pages/da
+    # permalink: /:collection/:slug
     # sort_by: index
     # pages:
     #   sort_by: index
@@ -87,7 +82,8 @@ collections:
     #     - about.md
   en:
     output: true
-    permalink: /:collection/:slug
+    # permalink: /:collection/:slug
+    # sort_by: index
 
 defaults:
   -
@@ -100,26 +96,32 @@ defaults:
   -
     scope:
       path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
       type: "da"
     values:
       layout: "page"
   -
     scope:
-      path: "_da/pages"
+      path: "_da"
       type: "da"
     values:
+      # collection: "da"
       layout: "page"
       lang: "da"
       permalink: "/:slug"
   -
     scope:
-      path: "_da/posts"
+      path: "_posts/da"
     values:
       layout: "post"
       lang: "da"
       # permalink: /da/post/:slug
       permalink: /news/:slug
-      collection: "posts"
   -
     scope:
       path: ""
@@ -128,7 +130,7 @@ defaults:
       layout: "page"
   -
     scope:
-      path: "_en/pages"
+      path: "_en"
       type: "en"
     values:
       layout: "page"
@@ -136,7 +138,7 @@ defaults:
       permalink: "/en/:slug"
   -
     scope:
-      path: "_en/posts"
+      path: "_posts/en"
     values:
       layout: "post"
       lang: "en"

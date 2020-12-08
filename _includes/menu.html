@@ -1,0 +1,31 @@
+{%- assign menu_pages = locale_pages | where: "menu", include.menu -%}
+{%- if menu_pages -%}
+<ul class="nav post-list{{ include.class }}" id="{{ include.id }}">
+{%- for item in menu_pages -%}
+  {%- if item.path == page.path or item.ref == page.menu -%}
+    {%- assign active_class = " active" -%}
+  {%- else -%}
+    {%- assign active_class = null -%}
+  {%- endif -%}
+
+  {%- assign child_pages = locale_pages | where: "menu", item.ref -%}
+  {%- if child_pages.size > 0 || item.placeholder -%}
+    {%- assign dropdown_class = " dropdown" -%}
+  {%- else -%}
+    {%- assign dropdown_class = null -%}
+  {%- endif -%}
+
+  <li class="page-link{{ active_class }}{{ dropdown_class }}">
+    {%- if item.placeholder -%}
+      <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="{{ item.ref }}-dropdown">{{ item.title }}</button>
+    {%- else -%}
+      <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+    {%- endif -%}
+    {%- if child_pages.size > 0 -%}
+      {%- assign submenu_id = item.ref + "-dropdown" -%}
+      {%- include menu.html class=" dropdown__menu" id=submenu_id menu=item.ref -%}
+    {%- endif -%}
+  </li>
+{%- endfor -%}
+</ul>
+{%- endif -%}

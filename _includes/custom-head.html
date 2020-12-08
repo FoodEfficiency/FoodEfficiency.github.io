@@ -1,0 +1,25 @@
+{% comment %}
+  Placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons:
+
+  1. Head over to https://realfavicongenerator.net/ to add your own favicons.
+  2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
+{% endcomment %}
+
+{%- assign current_language = site.languages | where: "lang", current_lang | first -%}
+{%- assign current_locale_page = site.data.t[current_lang].locale -%}
+
+{%- assign other_languages = site.languages | where_exp: "item", "item.lang != current_lang" | sort: "lang" -%}
+{%- for language in other_languages -%}
+  {%- assign item = site[language] | where: "ref", page.ref | first -%}
+  {%- if item -%}
+    <link rel="alternate" href="{{ item.url | absolute_url }}" hreflang="{{ language }}" />
+  {%- endif -%}
+  {%- assign item = site.posts | where: "lang", language | where: "ref", page.ref | first -%}
+  {%- if item -%}
+    <link rel="alternate" href="{{ item.url | absolute_url }}" hreflang="{{ language }}" />
+  {%- endif -%}
+{%- endfor -%}
+{%- assign locale_pages = site[current_lang] | sort: 'index' -%}
+
+<!-- { %- assign ref_posts = site.posts | where: "ref", page.ref | where_exp: "item", "item.lang != current_lang" | sort: "lang" -%} -->
+{%- assign locale_posts = site.posts | where: "lang", current_lang -%}

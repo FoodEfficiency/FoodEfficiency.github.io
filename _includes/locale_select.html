@@ -1,0 +1,27 @@
+{% comment %}
+  Print out Locale selector for locales defined in config.yml.
+  Usage: {% include locale_select.html %}
+  See: https://www.sylvaindurand.org/making-jekyll-multilingual/
+{% endcomment %}
+
+<nav class="locale_select">
+  {{ site.data.t[current_lang].global.language_select }}
+  <ul class="nav">
+    {%- assign languages = site.languages -%}
+    {%- for locale in languages -%}
+      {%- if locale == current_lang -%}
+        {%- assign active_class = "active" -%}
+      {%- else -%}
+        {%- assign active_class = null -%}
+      {%- endif -%}
+
+      {%- assign locale_page = site.data.t[locale].locale -%}
+      {%- assign language_page = site[locale] | where: "layout", "page" | where: "ref", page.ref | first | default: locale_page -%}
+      <li class="{{ active_class }}">
+        <a href="{{ language_page.url }}" class="{{ locale }}" title="{{ locale_page.title }}">
+          <img src="{{ locale_page.img }}" alt="Language selector {{ locale_page.title }}">
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>

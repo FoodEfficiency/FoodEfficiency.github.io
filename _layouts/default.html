@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+{%- assign current_lang = page.lang | default: site.active_lang | default: site.default_lang -%}
+<html lang="{{ page.lang | default: current_lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body tabindex="-1">
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {%- include sidebar.html -%}
+
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -1,0 +1,35 @@
+<aside class="sidebar">
+  {%- if locale_posts.size > 0 -%}
+  <nav aria-label="Posts Navigation">
+    <h4>{{ site.data.t[current_lang].posts.title }}</h4>
+    <ul class="nav post-list">
+      {%- assign date_format = site.sidebar_posts_date_format -%}
+      {%- for post in locale_posts limit: site.sidebar_posts_limit -%}
+        {%- if post.path == page.path -%}
+          {%- assign active_class = " active" -%}
+        {%- else -%}
+          {%- assign active_class = null -%}
+        {%- endif -%}
+      <li class="sb-post-item page-link{{ active_class }}">
+        <a class="sb-post-link" href="{{ post.url | relative_url }}">
+          <span class="sb-post-meta">{{ post.date | date: date_format }}</span>
+          {{ post.title | escape }}
+        </a>
+      </li>
+      {%- endfor -%}
+    {%- if locale_posts.size > site.sidebar_posts_limit -%}
+      <li>
+        <a class="sb-post-link page-link" href="{{ site.data.t[current_lang].posts.url }}">
+          {{ site.data.t[current_lang].posts.more }}
+        </a>
+      </li>
+    {%- endif %}
+    </ul>
+  </nav>
+  {%- endif %}
+
+  <nav aria-label="Sidebar Navigation">
+    <h4>{{ site.data.t[current_lang].sidebar.pages.title }}</h4>
+    {%- include menu.html menu="sidebar" -%}
+  </nav>
+</aside>
