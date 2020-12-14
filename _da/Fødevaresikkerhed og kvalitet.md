@@ -1,7 +1,7 @@
 ---
 title: Fødevaresikkerhed & kvalitet
 index: 1
-menu: food_safety
+menu: food_sector
 ---
 
 # Fødevaresikkerhed og kvalitet
