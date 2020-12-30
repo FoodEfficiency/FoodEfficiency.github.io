@@ -1,5 +1,5 @@
 {%- assign menu_pages = locale_pages | where: "menu", include.menu -%}
-{%- if menu_pages -%}
+{%- if menu_pages and include.menu != null -%}
 <ul class="nav post-list{{ include.class }}" id="{{ include.id }}">
 {%- for item in menu_pages -%}
   {%- if item.path == page.path or item.ref == page.menu -%}

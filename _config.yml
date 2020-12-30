@@ -29,6 +29,8 @@ theme: minima
 # remote_theme: FoodEfficiency/minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-regex-replace
 social_links:
   email: info@foodefficiency.eu
   email_subject: Kontakt via hjemmeside

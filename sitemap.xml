@@ -1,0 +1,33 @@
+---
+layout:
+permalink: /sitemaps.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {% for post in site.posts %}
+    {% if post.id contains "404" %}{% else %}
+      <url>
+        <loc>{{site.base}}{{ post.url }}</loc>
+        {% assign versions=site.posts | where_exp: "item", "item.ref != null" | where:"ref", post.ref %}
+        {% for version in versions %}
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+        {% endfor %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    {% endif %}
+  {% endfor %}
+  {%- assign all_pages=site.pages | concat: site["da"] | concat: site["en"] -%}
+  {% for page in all_pages %}
+    {% if page.name contains "404" or page.redirect != null %}{% else %}
+      <url>
+        <loc>{{site.base}}{{ page.url }}</loc>
+        {% assign versions=all_pages | where_exp: "item", "page.ref != null" | where:"ref", page.ref %}
+        {% for version in versions %}
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+        {% endfor %}
+        <changefreq>weekly</changefreq>
+      </url>
+    {% endif %}
+  {% endfor %}
+</urlset>
