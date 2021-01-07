@@ -56,7 +56,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   const email = document.getElementById("inquiry_email").value; 
   const phone = document.getElementById("inquiry_phone").value; 
   const data = { locale, message, name, lastname, email, phone }
-  const url = 'https://9opii6rrl5.execute-api.eu-central-1.amazonaws.com/submit';
+  const url = 'https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send';
   const headers = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Credentials': true,
