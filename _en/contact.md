@@ -1,12 +1,12 @@
 ---
-title: Kontakt os
+title: Contact
 <!-- permalink: /contact/ -->
 menu: foodefficiency
 index: 2
 ref: contact
 ---
 
-# Kontaktinfo
+# Contact us
 
 <div class="contact-inner">
 <div class="pull-right w50">
@@ -14,21 +14,19 @@ ref: contact
   <p>Chr. M. Østergaards Vej 4a<br>DK-8700 Horsens</p>
   <p>Tel: +45 2987 8494</p>
   <p>CVR: 34428832</p>
-  <p>Eller send en besked via formularen, og vi vil vende tilbage snarest muligt.</p>
+  <p>Get in touch with us. Just fill in the form below and we'll get back to you as soon as we can.</p>
 </div>
 <div class="inquiries pull-left">
-  <form accept-charset="UTF-8" class="new_inquiry" id="new_inquiry" method="post" data-name="Contact form">
-    <div style="margin:0;padding:0;display:inline">
-      <input id="locale" name="locale" type="hidden" value="da">
-      <input id="utf8" name="utf8" type="hidden" value="✓">
-      <input id="authenticity_token" name="authenticity_token" type="hidden" value="8vr2lMQljUu/67VhB2GS5pXRZubfGknz0sIweGYatWU=">
-    </div>
+  <form accept-charset="UTF-8" action="/contact" class="new_inquiry" id="new_inquiry" method="post">
+    <input id="locale" name="locale" type="hidden" value="da">
+    <input id="utf8" name="utf8" type="hidden" value="✓">
+    <input id="authenticity_token" name="authenticity_token" type="hidden" value="8vr2lMQljUu/67VhB2GS5pXRZubfGknz0sIweGYatWU=">
     <div class="field message_field">
-      <label class="placeholder-fallback" for="inquiry_message">Besked *</label>
-      <textarea cols="40" id="inquiry_message" name="message" placeholder="Skriv en besked til os" required="required" rows="8"></textarea>
+      <label class="placeholder-fallback" for="inquiry_message">Message *</label>
+      <textarea cols="40" id="inquiry_message" name="message" placeholder="Write your inquiry here" required="required" rows="8"></textarea>
     </div>
     <div class="field">
-      <label class="placeholder-fallback" for="inquiry_name">Navn *</label>
+      <label class="placeholder-fallback" for="inquiry_name">Name *</label>
       <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
     </div>
     <input id="lastname" class="offscreen" name="lastname" type="text" value="">
@@ -37,11 +35,11 @@ ref: contact
       <input class="text email" id="inquiry_email" name="email" placeholder="" required="required" size="30" type="email">
     </div>
     <div class="field">
-      <label class="placeholder-fallback" for="inquiry_phone">Telefon</label>
+      <label class="placeholder-fallback" for="inquiry_phone">Phone</label>
       <input class="text phone" id="inquiry_phone" name="phone" placeholder="" size="30" type="phone">
     </div>
     <div class="actions">
-      <input class="btn btn-success" id="contact_submit" name="commit" type="submit" value="Send besked">
+      <input class="btn btn-success" name="commit" type="submit" value="Send message">
     </div>
   </form>
 </div>
@@ -64,7 +62,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     'Access-Control-Allow-Credentials': true,
   }
   axios.post(url, data, headers).then(res => {
-    alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.')
+    alert("Thanks for your inquiry.  We'll get back to you as soon as we can.")
   }).catch(err => {
     console.log(err)
     alert(err)
