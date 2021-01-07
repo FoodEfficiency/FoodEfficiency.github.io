@@ -39,7 +39,7 @@ ref: contact
       <input class="text phone" id="inquiry_phone" name="phone" placeholder="" size="30" type="phone">
     </div>
     <div class="actions">
-      <input class="btn btn-success" name="commit" type="submit" value="Send message">
+      <input class="btn btn-success" id="contact_submit" name="commit" type="submit" value="Send message">
     </div>
   </form>
 </div>
