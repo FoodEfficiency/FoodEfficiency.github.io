@@ -2,6 +2,7 @@
 title: Sparring og seminarer
 index: 2
 menu: sustainability
+permalink: /sparring 
 ref: Partner 
 ---
 # Sparringspartner og seminarer 
