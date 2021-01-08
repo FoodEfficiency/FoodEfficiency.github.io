@@ -14,8 +14,8 @@ I 2015 introducerede hun FN’s verdensmål til dansk mejeribrug ifbm. seminar u
 Desværre er mange virksomheder skræmt af den megen snak der finder sted omkring bæredygtighed og de har svært ved at få identificeret de aktiviteter der understøtter både virksomhedens egen strategi og bæredygtighedstankegangen. 
 
 Men med den rigtige indsats er der meget værdiskabelse i bæredygtighedsarbejdet og det kan bl.a. være med til at 
-•	Styrke samarbejde, risikominering og styring på tværs af forsyningskæden 
-•	Minimere klima- og miljøpåvirkninger - direkte og indirekte 
-•	Tiltrække og fastholde menneskelige ressourcer og sikre velfærd
-•	Sikre indtjening og kapital på den lange bane 
+*	Styrke samarbejde, risikominering og styring på tværs af forsyningskæden 
+*	Minimere klima- og miljøpåvirkninger - direkte og indirekte 
+*	Tiltrække og fastholde menneskelige ressourcer og sikre velfærd
+*	Sikre indtjening og kapital på den lange bane 
 
