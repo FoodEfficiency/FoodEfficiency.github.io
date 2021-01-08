@@ -1,6 +1,6 @@
 ---
 title: Sparring og seminarer
-index: 2
+index: 3
 menu: sustainability
 permalink: /sparring 
 ref: Partner 

@@ -1,7 +1,8 @@
 ---
 title: Hvad er bæredygtighed?
-index: 2
+index: 1
 menu: sustainability
+permalink: /about-sustainability
 ref: About sustainability
 ---
 # Hvad er bæredygtighed?

@@ -2,7 +2,8 @@
 title: Produktionsoverflytning og licensproduktion
 index: 2
 menu: food_sector
-ref: Product_transfer
+permalink: /product-transfer-and-licence-production
+ref: product_transfer
 ---
 # Produktionsoverflytning og licensproduktion
 Hvad enten der er tale om produktoverflytninger eller licensproduktion indenfor fødevareproduktion, sker det sjældent som en 1:1 overflytning, da mange forskellige faktorer spiller ind på den endelige kvalitet. 

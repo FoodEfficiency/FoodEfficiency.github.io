@@ -1,6 +1,7 @@
 title: Arbejdsmiljø og Sikkerhed
 index: 2
 menu: food_sector
+permalink: /health-safety
 ref: health_safety
 ---
 # Hygiejne and egenkontrol	

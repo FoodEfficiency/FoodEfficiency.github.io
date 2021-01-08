@@ -14,7 +14,6 @@ redirect_from:
   - /services/egenkontrol-og-haccp
   - /services/dairyefficciency-dairy-management-system
   - /services/egenkontrol-smiley
-  - /services/miljo
   - /services/baeredygtighed-og-csr
   - /services/ga-hjem-moder-om-baeredygtighed
 ---

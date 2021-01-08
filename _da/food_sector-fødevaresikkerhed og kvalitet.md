@@ -2,6 +2,7 @@
 title: Fødevaresikkerhed & kvalitet
 index: 1
 menu: food_sector
+permalink: /fodevaresikkerhed-og-kvalitet
 ref: food_safety
 ---
 
