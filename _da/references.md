@@ -10,7 +10,7 @@ ref: references
 
 ![Einar Willumsen Logo][1]
 
-CSR projekt - kortlægning af forsyningskæde og produktion, identifikation af fokusområder, udarbejdelse af målsætning og support til udarbejdelse af CSR materiale. Facilitering af CSR arbejdsguppe. 
+CSR projekt - kortlægning af forsyningskæde og produktion, identifikation af fokusområder hos flavour producenten Einar Willumsen. Udarbejdelse af målsætning og support til udarbejdelse af CSR materiale. Facilitering af CSR arbejdsguppe. 
 
 ![Bornholm Logo][2]
 
