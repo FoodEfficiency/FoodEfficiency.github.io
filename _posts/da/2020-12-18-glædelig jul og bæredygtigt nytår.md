@@ -20,4 +20,6 @@ For det nye år ønsker jeg:
 
 * at vi alle får øjenene op både de sundhedsmæssige og bæredygtighedsmæssige fordele ved en klimavenlig kost - og at den bliver mere tilgængelig i hverdagen. 
 
+![jul i horsens](/assets/images/Jul i Horsens 2020.png)
+
 Glædelig jul og bæredygtigt 2021
