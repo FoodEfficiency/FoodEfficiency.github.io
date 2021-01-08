@@ -2,7 +2,6 @@
 title: Sustainability
 menu: header
 index: 2
-placeholder: false
 ref: sustainability
 ---
 FoodEfficiency har i over 20 år arbejdet direkte såvel som indirekte med bæredygtighed – startende med et vand og energi optimerings projekt på Bov Mejeri i samarbejde med det lokale forsyningsselskab.
