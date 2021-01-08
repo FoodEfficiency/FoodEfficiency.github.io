@@ -34,18 +34,19 @@ Innovation project for a Danish dairy company concerning product development and
 
 ![Horsens Kommune Logo][13]
 
-Food authorization adviser for central kitchens in Horsens municipality
+Food authorization adviser for central kitchens in [Horsens municipality][14]
 
-[1]: /assets/images/logo/Beierholm.png "Nørup Beierholm Dairy Logo"
+[1]: /assets/images/logo/Beierholm.png#thumbnail "Beierholm Nørup Dairy Logo"
 [2]: http://www.noerup-mejeri.dk/ "http://www.noerup-mejeri.dk/"
-[3]: /assets/images/logo/Arla.png "Arla Foods Logo"
+[3]: /assets/images/logo/Arla.png#thumbnail "Arla Foods Logo"
 [4]: http://www.arlafoods.dk/ "http://www.arlafoods.dk/"
-[5]: /assets/images/logo/Grundfos.jpg "Grundfos Logo"
+[5]: /assets/images/logo/Grundfos.png#thumbnail "Grundfos Logo"
 [6]: http://www.grundfos-biobooster.com/#business "http://www.grundfos-biobooster.com/#business"
-[7]: /assets/images/logo/Barrit.jpg "Barrit Logo"
+[7]: /assets/images/logo/Barrit.png#thumbnail "Barrit Logo"
 [8]: http://www.barritmejeri.dk/ "http://www.barritmejeri.dk/"
-[9]: /assets/images/logo/WSP-Natlikan.jpg "Wsp Natlikan Logo"
+[9]: /assets/images/logo/WSP-Natlikan.png#thumbnail "Wsp Natlikan Logo"
 [10]: http://www.natlikan.com/index.php?option=com_content&view=article&id=70&Itemid=2 "http://www.natlikan.com/index.php?option=com_content&view=article&id=70&Itemid=2"
-[11]: /assets/images/logo/FODEVAREmidt.jpg "FODEVAREmidt Logo"
-[12]: http://www.foedevaremidt.dk/default.asp "http://www.foedevaremidt.dk/default.asp"
-[13]: /assets/images/logo/Horsens-Kom.jpg "Horsens Kommune Logo"
+[11]: /assets/images/logo/FODEVAREmidt.png#thumbnail "FODEVAREmidt Logo"
+[12]: http://www.foedevaremidt.dk/default.png#thumbnail "http://www.foedevaremidt.dk/default.asp"
+[13]: /assets/images/logo/Horsens-Kom.png#thumbnail "Horsens Kommune Logo"
+[14]: https://horsens.dk "https://horsens.dk"

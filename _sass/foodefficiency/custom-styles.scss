@@ -9,6 +9,10 @@ a {
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: $brand-color;
+}
+
 .brand {
   color: $brand-color-dark !important;
   font-size: 30px;
@@ -193,10 +197,13 @@ a {
   img[src*="#pull-right"], .pull-right {
     float: right;
   }
+  img[src~="w255"], img[src*="w255"], .medium {
+    max-width: 255px;
+  }
   // Using pseudo class, e.g. ![Kitten](/media/2018/08/kitten.jpg# thumbnail bordered)
-  img[src~="thumbnail"], .thumbnail {
-    width:150px;
-    height:100px;
+  img[src~="thumbnail"], img[src*="thumbnail"], .thumbnail {
+    max-width: 150px;
+    max-height: 100px;
   }
   img[src~="bordered"] {
     border: 1px solid black;

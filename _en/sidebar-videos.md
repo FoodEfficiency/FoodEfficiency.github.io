@@ -1,7 +1,7 @@
 ---
 title: Videos
 menu: sidebar
-permalink: /en/inspiration/videos
+permalink: /en/videos
 position: 1
 ref: videos
 ---

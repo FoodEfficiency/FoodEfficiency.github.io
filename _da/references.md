@@ -38,27 +38,28 @@ Ekstern kvalitetschef. Udvikling og implementering af HACCP-baseret ledelsessyst
 
 Udarbejdelse og opdatering af miljø og arbejdsmiljø lovlister for udvalgte kunder hos [WSP Natlikan][13]
 
-![Fodevare Midt Logo][14]
+![FODEVAREmidt Logo][14]
 
 Innovationsprojekt omhandlende produktudvikling og branding af nyt mejeriprodukt med støtte fra [FØDEVAREmidt][15]
 
 ![Horsens Kommune Logo][16]
 
-Autorisations rådgivning for centralkøkkener under Horsenes Kommune 
+Autorisations rådgivning for centralkøkkener under [Horsenes Kommune][17]
 
-[1]: /assets/images/logo/EW.png "Einar Willumsen Logo"
-[2]: /assets/images/logo/Bornholm.png "Bornholm Logo"
+[1]: /assets/images/logo/EW.png#thumbnail "Einar Willumsen Logo"
+[2]: /assets/images/logo/Bornholm.png#thumbnail "Bornholm Logo"
 [3]: https://st-clemens.dk/welcome/ "https://st-clemens.dk/welcome/"
-[4]: Beierholm.png "Beierholm Logo"
+[4]: /assets/images/logo/Beierholm.png#thumbnail "Beierholm Logo"
 [5]: http://www.noerup-mejeri.dk/ "http://www.noerup-mejeri.dk/"
-[6]: /assets/images/logo/Arla.png "Arla Foods Logo"
+[6]: /assets/images/logo/Arla.png#thumbnail "Arla Foods Logo"
 [7]: http://www.arlafoods.dk/ "http://www.arlafoods.dk/"
-[8]: /assets/images/logo/Grundfos.jpg "Grundfos Logo"
+[8]: /assets/images/logo/Grundfos.png#thumbnail "Grundfos Logo"
 [9]: http://www.grundfos-biobooster.com/#business "http://www.grundfos-biobooster.com/#business"
-[10]: /assets/images/logo/Barrit.jpg "Barrit Logo"
+[10]: /assets/images/logo/Barrit.png#thumbnail "Barrit Logo"
 [11]: http://www.barritmejeri.dk/ "http://www.barritmejeri.dk/"
-[12]: /assets/images/logo/WSP-Natlikan.jpg "Wsp Natlikan Logo"
+[12]: /assets/images/logo/WSP-Natlikan.png#thumbnail "Wsp Natlikan Logo"
 [13]: http://www.natlikan.com/ "http://www.natlikan.com/"
-[14]: /assets/images/logo/FODEVAREmidt.jpg "Fodevare Midt Logo"
-[15]: http://www.foedevaremidt.dk/default.asp "http://www.foedevaremidt.dk/default.asp"
-[16]: /assets/images/logo/Horsens-Kom.jpg "Horsens Kommune Logo"
+[14]: /assets/images/logo/FODEVAREmidt.png#thumbnail "Fodevare Midt Logo"
+[15]: http://www.foedevaremidt.dk/ "http://www.foedevaremidt.dk/"
+[16]: /assets/images/logo/Horsens-Kom.png#thumbnail "Horsens Kommune Logo"
+[17]: https://horsens.dk "https://horsens.dk"

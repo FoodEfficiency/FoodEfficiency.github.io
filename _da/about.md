@@ -6,6 +6,8 @@ menu: foodefficiency
 index: 1
 lang: da
 ref: about
+redirect_from:
+  - /about/karin-hansen-background
 ---
 
 # About - FoodEfficiency

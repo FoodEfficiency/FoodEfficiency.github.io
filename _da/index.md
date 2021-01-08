@@ -8,6 +8,15 @@ image_url: /assets/img/home_bg.jpg
 lang: da
 permalink: /
 ref: home
+redirect_from:
+  - /services
+  - /services/kvalitet-og-fodevaresikkerhed
+  - /services/egenkontrol-og-haccp
+  - /services/dairyefficciency-dairy-management-system
+  - /services/egenkontrol-smiley
+  - /services/miljo
+  - /services/baeredygtighed-og-csr
+  - /services/ga-hjem-moder-om-baeredygtighed
 ---
 
 <h1 class="brand">Food<span>Efficiency</span></h1>

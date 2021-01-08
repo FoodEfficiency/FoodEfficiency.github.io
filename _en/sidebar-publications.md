@@ -1,7 +1,7 @@
 ---
 title: Publications
 menu: sidebar
-permalink: /en/inspiration/publications
+permalink: /en/publications
 position: 2
 ref: publications
 ---

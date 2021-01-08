@@ -35,5 +35,9 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  <p>
+    <a href="{{ site.data.t[page.lang].posts.url }}">{{ site.data.t[page.lang].posts.home }}</a>
+  </p>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

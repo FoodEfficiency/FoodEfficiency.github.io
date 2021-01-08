@@ -5,6 +5,8 @@ position: 1
 image_alt: FoodEfficiency v/Karin Hansen
 image_url: /assets/img/FoodEfficiency-StartUp.png
 ref: about
+redirect_from:
+  - /en/about/karin-hansen-background
 ---
 
 # FoodEfficiency - About
