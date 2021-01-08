@@ -31,7 +31,7 @@ ref: contact
       <label class="placeholder-fallback" for="inquiry_name">Navn *</label>
       <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
     </div>
-    <input id="lastname" class="offscreen" name="lastname" type="text" value="">
+    <input id="lastname" class="offscreen" name="lastname" tabindex="-1" type="text" value="">
     <div class="field">
       <label class="placeholder-fallback" for="inquiry_email">Email *</label>
       <input class="text email" id="inquiry_email" name="email" placeholder="" required="required" size="30" type="email">
@@ -66,8 +66,8 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   axios.post(url, data, headers).then(res => {
     alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.')
   }).catch(err => {
-    console.log(err)
-    alert(err)
+    // console.log(err)
+    alert("Udfyld venligst felterne: besked, name, email og telefon")
   })
   return true;
 });

@@ -29,7 +29,7 @@ ref: contact
       <label class="placeholder-fallback" for="inquiry_name">Name *</label>
       <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
     </div>
-    <input id="lastname" class="offscreen" name="lastname" type="text" value="">
+    <input id="lastname" class="offscreen" name="lastname" tabindex="-1" type="text" value="">
     <div class="field">
       <label class="placeholder-fallback" for="inquiry_email">Email *</label>
       <input class="text email" id="inquiry_email" name="email" placeholder="" required="required" size="30" type="email">
@@ -64,8 +64,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   axios.post(url, data, headers).then(res => {
     alert("Thanks for your inquiry.  We'll get back to you as soon as we can.")
   }).catch(err => {
-    console.log(err)
-    alert(err)
+    alert("Please specify inquiry parameters: message, name, email and phone")
   })
   return true;
 });
