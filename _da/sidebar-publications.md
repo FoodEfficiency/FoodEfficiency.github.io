@@ -1,5 +1,5 @@
 ---
-title: Publikationer
+title: Publikationer og artikler
 menu: sidebar
 permalink: /publications
 position: 2

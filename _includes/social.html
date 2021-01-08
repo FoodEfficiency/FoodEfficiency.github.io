@@ -3,7 +3,7 @@
 <ul class="social-media-list">
   <li><a rel="me" href="https://foodefficiency.eu" title="FoodEfficiency home page">Copyright © {{ site.time | date: '%Y' }} {{ site.title }}</a></li>
   {%- if social.email -%}<li><a rel="me" href="mailto:{{ social.email | cgi_escape | escape }}?subject={{ social.email_subject }}" title="{{ social.email | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/foodefficiency-social-icons.svg#email' | relative_url }}"></use></svg>{{ social.email }}</a></li>{%- endif -%}
-  {%- if social.linkedin -%}<li><a rel="me" href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/foodefficiency-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if social.linkedin -%}<li><a rel="me" href="https://www.linkedin.com/{{ social.linkedin | cgi_escape | escape }}" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/foodefficiency-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.phone -%}<li><a rel="me" href="tel:{{ social.phone | cgi_escape | escape }}" title="{{ social.phone }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/foodefficiency-social-icons.svg#phone' | relative_url }}"></use></svg>{{ social.phone }}</a></li>{%- endif -%}
   {%- if social.telegram -%}<li><a rel="me" href="https://t.me/{{ social.telegram | cgi_escape | escape }}" title="{{ social.telegram | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/foodefficiency-social-icons.svg#telegram' | relative_url }}"></use></svg></a></li>{%- endif -%}
 </ul>

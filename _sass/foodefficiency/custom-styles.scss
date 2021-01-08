@@ -197,8 +197,11 @@ h1, h2, h3, h4, h5, h6 {
   img[src*="#pull-right"], .pull-right {
     float: right;
   }
-  img[src~="w255"], img[src*="w255"], .medium {
+  img[src*="w255"], .medium {
     max-width: 255px;
+  }
+  img[src*="w450"], .medium {
+    max-width: 450px;
   }
   // Using pseudo class, e.g. ![Kitten](/media/2018/08/kitten.jpg# thumbnail bordered)
   img[src~="thumbnail"], img[src*="thumbnail"], .thumbnail {

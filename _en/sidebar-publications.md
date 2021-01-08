@@ -1,9 +1,9 @@
 ---
-title: Publications
+title: Publications and articles
 menu: sidebar
 permalink: /en/publications
 position: 2
 ref: publications
 ---
 
-# Placeholder page
+# Publications & Articles
