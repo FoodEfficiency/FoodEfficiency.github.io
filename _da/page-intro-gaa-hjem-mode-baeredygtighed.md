@@ -2,12 +2,12 @@
 title: Intro webinar om bæredygtighed
 permalink: /intro-webinar-om-baeredygtighed
 ---
-# Services - Intro webinar om Bæredygtighed
+# Intro webinar om Bæredygtighed
 
 ![Img 1467][1]
 
   
-FoodEfficiency afholder jævnligt gratis gå-hjem-møder og webinars for små og mellemstore virksomheder under temaet er "[**Få bæredygtighed ned på jorden og ind i hverdagen][2] **".  
+FoodEfficiency afholder jævnligt gratis gå-hjem-møder og webinars for små og mellemstore virksomheder under temaet er **"[Få bæredygtighed ned på jorden og ind i hverdagen][2]**".  
 
   
 
