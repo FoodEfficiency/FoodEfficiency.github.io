@@ -18,7 +18,7 @@ etc.
 
 
 
-## Andre artikler
+## Egne og eksterne publikationer
 
 * [2012 - **Alectia** Danish Dairy & Food Industry](/assets/publications/2012_Alectia Danish Dairy & Food Industry.pdf)
 * [2013-02 - Water Wastewater and Biogas](/assets/publications/2013_Water Wastewater and Biogas Feb 2013.pdf)
@@ -31,7 +31,7 @@ etc.
 * [2016-10 - The costs of hygenic design_FoodEfficiency](/assets/publications/2016_FE_The costs of hygenic design_FoodEfficiency_Oct 2016.pdf)
 * [2016 - **EHEDG Congress 2016** – Where Food Safety](/assets/publications/2016_EHEDG Congress 2016 – Where Food Safety.pdf)
 * [2016 - Environmental management in a Food Safety Context](/assets/publications/2016_FE_Environmental management in a Food Safety Context.pdf)
-* [2016-05 - _FE_ **Mejeriteknisk selskab** Fodevaresikkerhed og Baeredygtighed, rev2](/assets/publications/2016_FE_Mejeriteknisk selskab_Fodevaresikkerhed og Baeredygtighed Maj 2016_rev2.pdf)
+* [2016-05 - **Mejeriteknisk selskab** Fodevaresikkerhed og Baeredygtighed, rev2](/assets/publications/2016_FE_Mejeriteknisk selskab_Fodevaresikkerhed og Baeredygtighed Maj 2016_rev2.pdf)
 * [2016 - Sustainability_Challenge or Opportunity for the Food Industry](/assets/publications/2016_FE_Sustainability_Challenge or Opportunity for the Food Industry.pdf)
 * [2018 - **Non-GMO Certification**](/assets/publications/2018_non_GMO Certification.pdf)
 * [2020 - **CleverCoffee** - Hacienda Misiones (doc)](/assets/publications/2020_CleverCoffee_Hacienda Misiones.docx)
