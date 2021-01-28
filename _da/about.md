@@ -26,5 +26,5 @@ Derudover er Karin uddannet BRC 3rd parts auditor til leverandør audits, ISO220
 Tidligere ansættelsesforhold og opgaver [fremgår af CV][2] samt LinkedIn profil [https://www.linkedin.com/company/foodefficiency][3]
 
 [1]: /assets/img/FoodEfficiency-StartUp.png#pull-right "Food Efficiency v/karin Hansen - Start Up"
-[2]: /assets/artikler_publikationer/KEH%20CV%20QEHS%20and%20CSR%20development.pdf "KEH CV QEHS and CSR Development "
+[2]: /assets/publications/KEH%20CV%20QEHS%20and%20CSR%20development.pdf "KEH CV QEHS and CSR Development "
 [3]: https://www.linkedin.com/in/karin-hansen-a14446/ "https://www.linkedin.com/company/foodefficiency"

@@ -102,17 +102,20 @@ h1, h2, h3, h4, h5, h6 {
         color: #999;
         padding: 9px; // 11px;
         vertical-align: baseline;
-        &.dropdown__header:after {
-          content: "";
-          border: 0.35rem solid transparent;
-          border-top-color: $link-hover-color; // rgba(blue, 0.45);
-          margin-left: 0.25em;
-          transform: translateY(0.15em);
-        }
         &:hover {
           background-color: $brand-color-light;
           color: $fe-sidebar-background;
         }
+      }
+      & > a.dropdown__header:after {
+        content: "";
+        border: 0.35rem solid transparent;
+        border-top-color: $link-hover-color; // rgba(blue, 0.45);
+        margin-left: 0.25em;
+        transform: translateY(0.15em);
+
+        position: relative;
+        top: 0.7em;
       }
       &.active > a, &.active > button {
         background-color: $brand-color-light;

@@ -10,68 +10,68 @@ ref: links
 
 ### CSR and Sustainability ![Sdg][21]
 
-* [Sustainable Development Goals (UN 17 SDG)][22]
-* [UN Global Compact][23]
-* [UN Global Reporting Initiative][24]
-* [SEDEX][25]
-* [EcoVadis][26]
-* [ISO and SDG][27]
-* [Circular Economy - Generel Introduktion][28]
-* [BSI on Circular Economy][29]
-* [Circular Economy in the Food Chain][30]
+* [Sustainable Development Goals (UN 17 SDG)][22]{:target="_blank"}
+* [UN Global Compact][23]{:target="_blank"}
+* [UN Global Reporting Initiative][24]{:target="_blank"}
+* [SEDEX][25]{:target="_blank"}
+* [EcoVadis][26]{:target="_blank"}
+* [ISO and SDG][27]{:target="_blank"}
+* [Circular Economy - Generel Introduktion][28]{:target="_blank"}
+* [BSI on Circular Economy][29]{:target="_blank"}
+* [Circular Economy in the Food Chain][30]{:target="_blank"}
 
 ### Quality and Food Safety ![00 About][31]
 
-* [Danish Food Safety Authorities][32]
-* [European Food Safety][33]
-* [Allergenes][34]
-* [RASFF - Food and Feed Safety Alerts][35]
-* [EU update on Food Fraud][36]
-* [Codex Alimentarious][37] and [Codex / WHO Standards][38]
-* Global Food Safety Initiative [(GFSI)][39]
-* Some GFSI recognized standards - [BRC][40], [IFS][41], ISO22000 [FSSC][42]
+* [Danish Food Safety Authorities][32]{:target="_blank"}
+* [European Food Safety][33]{:target="_blank"}
+* [Allergenes][34]{:target="_blank"}
+* [RASFF - Food and Feed Safety Alerts][35]{:target="_blank"}
+* [EU update on Food Fraud][36]{:target="_blank"}
+* [Codex Alimentarious][37]{:target="_blank"} and [Codex / WHO Standards][38]{:target="_blank"}
+* Global Food Safety Initiative [(GFSI)][39]{:target="_blank"}
+* Some GFSI recognized standards - [BRC][40]{:target="_blank"}, [IFS][41]{:target="_blank"}, ISO22000 [FSSC][42]{:target="_blank"}
 
 ### Equipment, Technology and Machinery ![EHEDG][43]
 
-* Hygenic Design - [EHEDG][44]
-* Hygenic Design - [Staalcentrun Guidelines][45] Staalcentrum has been ceased -_ we hold old copies of the guidelines and can send them per request. _
-* EU [Food Contact Material][46]
-* Certified lubricants for use in food industry - [NSF][47] and [category list][48]
-* Dairy Processing Manual - [Tetra Pak][49]
+* Hygenic Design - [EHEDG][44]{:target="_blank"}
+* Hygenic Design - [Staalcentrun Guidelines][45]{:target="_blank"} Staalcentrum has been ceased -_ we hold old copies of the guidelines and can send them per request. _
+* EU [Food Contact Material][46]{:target="_blank"}
+* Certified lubricants for use in food industry - [NSF][47]{:target="_blank"} and [category list][48]{:target="_blank"}
+* Dairy Processing Manual - [Tetra Pak][49]{:target="_blank"}
 
 ### Health and Safety 
 
-* [Danish Health & Safety authorities (ArbejdsTilsynet, AT)][50]
-* [UK Health & Safety Executive][51]
-* EU [Machine Directive / Machine Safety][52]
-* EU [ATEX ((Equipment for potentially explosive atmospheres)][53]
+* [Danish Health & Safety authorities (ArbejdsTilsynet, AT)][50]{:target="_blank"}
+* [UK Health & Safety Executive][51]{:target="_blank"}
+* EU [Machine Directive / Machine Safety][52]{:target="_blank"}
+* EU [ATEX ((Equipment for potentially explosive atmospheres)][53]{:target="_blank"}
 
 ### Environment ![Bæredygtighed][54]
 
-* EU -[ Industry and Environment][55]
-* EU - [Industrial Emissions][56] and [Best Available Technique (BAT)][57]
-* Danish [Environmental Agency][58]
-* British [Environmental Agency][59]
+* EU -[ Industry and Environment][55]{:target="_blank"}
+* EU - [Industrial Emissions][56]{:target="_blank"} and [Best Available Technique (BAT)][57]{:target="_blank"}
+* Danish [Environmental Agency][58]{:target="_blank"}
+* British [Environmental Agency][59]{:target="_blank"}
 
 ### **General Legislation**
 
-* [Danish Legislation][60]
-* [British Legislation][61]
-* [German Legislation][62]
-* [European Legislation][63]
+* [Danish Legislation][60]{:target="_blank"}
+* [British Legislation][61]{:target="_blank"}
+* [German Legislation][62]{:target="_blank"}
+* [European Legislation][63]{:target="_blank"}
 
 ### Authorized Food Manufactures in Europe and GFSI certified companies
 
-* [Approved EU food establishments][64]
-* [Search for an apporved food manufacture][65]
-* [BRC Approved companies][66]
-* [FSSC 22000 Certificates Directory][67]
-* [IFS approved organisations][68]
+* [Approved EU food establishments][64]{:target="_blank"}
+* [Search for an apporved food manufacture][65]{:target="_blank"}
+* [BRC Approved companies][66]{:target="_blank"}
+* [FSSC 22000 Certificates Directory][67]{:target="_blank"}
+* [IFS approved organisations][68]{:target="_blank"}
 
 ### Food Data 
 
-* [USDA Food Composition Databases][69]
-* [DTU Fødevaredata][70]
+* [USDA Food Composition Databases][69]{:target="_blank"}
+* [DTU Fødevaredata][70]{:target="_blank"}
 
 [21]: /assets/images/SDG.png#w255#pull-right "Sdg"
 [22]: https://sdgs.un.org/goals "https://sdgs.un.org/goals"

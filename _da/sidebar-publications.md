@@ -8,6 +8,18 @@ ref: publications
 
 # Artikler og publikationer
 
+## Seneste LinkedIn updates
+
+* [Fødevarestyrelsens kontrolkampagner 2021](#)
+
+* [Gå-hjem møder om bæredygtighed](#)
+
+etc.
+
+
+
+## Andre artikler
+
 * [**Alectia** Danish Dairy & Food Industry, 2012](/assets/publications/2012_Alectia Danish Dairy & Food Industry.pdf)
 * [Water Wastewater and Biogas, Feb 2013](/assets/publications/2013_Water Wastewater and Biogas Feb 2013.pdf)
 * [_FE_ Det effektive ledelsessystem, 2015](/assets/publications/2015_FE_Det effektive ledelsessystem.pdf)
@@ -35,5 +47,3 @@ ref: publications
 * [_FE_ New food trends and the need to reconsider, 2020](/assets/publications/2020_FE_New food trends and the need to reconsider.pdf)
 * [**LFQS** - List of control points to check for, 2020](/assets/publications/2020_LFQS_List of control points to check for.pdf)
 * [**Ramboll** - Store industrivirksomheder trodser økonomisk krise og corona: 2 ud af 3 fortsætter bæredygtig omstilling – og det kan der være god forretning i - Rambøll i Danmark, 2020](/assets/publications/2020_Ramboll_Store industrivirksomheder trodser økonomisk krise og corona: 2 ud af 3 fortsætter bæredygtig omstilling – og det kan der være god forretning i - Rambøll i Danmark.pdf)
-
-* [KEH CV QEHS and CSR development](/assets/publications/KEH CV QEHS and CSR development.pdf)

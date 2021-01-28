@@ -10,75 +10,75 @@ ref: links
 
 ### Bæredygtighed og CSR
 
-* [FN's 17 Verdensmål][21]
-* [UN Global Compact][22]
-* [UN Global Reporting Initiative][23]
-* [SEDEX][24]
-* [EcoVadis][25]
-* [ISO og Verdensmålene][26]
-* [Cirkulær Økonomi - Generel Introduktion][27]
-* [Cirkulær Økonomi i Fødevarekæden][28]
+* [FN's 17 Verdensmål][21]{:target="_blank"}
+* [UN Global Compact][22]{:target="_blank"}
+* [UN Global Reporting Initiative][23]{:target="_blank"}
+* [SEDEX][24]{:target="_blank"}
+* [EcoVadis][25]{:target="_blank"}
+* [ISO og Verdensmålene][26]{:target="_blank"}
+* [Cirkulær Økonomi - Generel Introduktion][27]{:target="_blank"}
+* [Cirkulær Økonomi i Fødevarekæden][28]{:target="_blank"}
 
 ### Mejeri og Fødevareindustri
 
 **NB:** _For link til EU information se [den engelske oversigt](/en/links)._
 
-[Fødevarestyrelsen][29]
+[Fødevarestyrelsen][29]{:target="_blank"}
 
-* [Indretning og drift][30]
-* [Egenkontrol][31]
-* [Desinfektionsmidler][32]
-* [Kedelkemikalier][33]
-* [NSF godkendte smørremidler][34]
-* [Fødevarekontaktmateriale][35]
-* [Produkt tilbagekaldelse iht. FVST krav][36]
-* [Oversvømmelse i fødevarevirksomheder][37]
+* [Indretning og drift][30]{:target="_blank"}
+* [Egenkontrol][31]{:target="_blank"}
+* [Desinfektionsmidler][32]{:target="_blank"}
+* [Kedelkemikalier][33]{:target="_blank"}
+* [NSF godkendte smørremidler][34]{:target="_blank"}
+* [Fødevarekontaktmateriale][35]{:target="_blank"}
+* [Produkt tilbagekaldelse iht. FVST krav][36]{:target="_blank"}
+* [Oversvømmelse i fødevarevirksomheder][37]{:target="_blank"}
 
 ### Fødevaresikkerhed og standarder
 
-* [GFSI][38] anerkendte standarder: [BRC][39], [IFS][40] og [FSSC][41]
-* [Codex Alimentarius][42] [og][42] samt [Codex/WHO standards][43]
-* [Allergener][44]
-* Recalls via [Rapid Alert System for Food and Feed (RASFF)][45]
-* [Skadedyr i levendsmidler][46]
+* [GFSI][38] anerkendte standarder: [BRC][39]{:target="_blank"}, [IFS][40]{:target="_blank"} og [FSSC][41]{:target="_blank"}
+* [Codex Alimentarius][42]{:target="_blank"} [og][42]{:target="_blank"} samt [Codex/WHO standards][43]{:target="_blank"}
+* [Allergener][44]{:target="_blank"}
+* Recalls via [Rapid Alert System for Food and Feed (RASFF)][45]{:target="_blank"}
+* [Skadedyr i levendsmidler][46]{:target="_blank"}
 
 ### Hygiejnisk design
 
-* [EHEDG Guidelines][47]
-* [Staalcentrum Guidelines på dansk og engelsk][48] _siden er blevet nedlagt men kopi af tidligere vejledninger kan fåes ved direkte henvendelse til FoodEfficiency _
+* [EHEDG Guidelines][47]{:target="_blank"}
+* [Staalcentrum Guidelines på dansk og engelsk][48]{:target="_blank"} _siden er blevet nedlagt men kopi af tidligere vejledninger kan fåes ved direkte henvendelse til FoodEfficiency _
 
 ### Maskinsikkerhed - se Engelsk oversigt.
 * Maskinsikkerhed og CE mærkning
 * ATEX 
-* [Personlige værnemidler][49]
+* [Personlige værnemidler][49]{:target="_blank"}
 
 ### Miljø og Arbejdsmiljø
 
-* Miljøstyrelsen - [Industri][50]
-* Miljøstyrelsen - [Oversigt over affaldsregulativer][51]
-* EU oversigt over [Best Available Technology][52] under IPPC og Industrial Emission Direktiverne 
-* [Kemikalieberedskab][53]
-* [Arbejdstilsynet][54]
-* Arbejdstilsynet - [Vejledninger][55]
+* Miljøstyrelsen - [Industri][50]{:target="_blank"}
+* Miljøstyrelsen - [Oversigt over affaldsregulativer][51]{:target="_blank"}
+* EU oversigt over [Best Available Technology][52]{:target="_blank"} under IPPC og Industrial Emission Direktiverne 
+* [Kemikalieberedskab][53]{:target="_blank"}
+* [Arbejdstilsynet][54]{:target="_blank"}
+* Arbejdstilsynet - [Vejledninger][55]{:target="_blank"}
 
 ### Lovgivning - Generelle søgesider
-* [Danmark][56] 
-* [United Kingdom][57]
-* [Deutschland][58] (husk at der kan være forskellig lovgivning afhængig af Bundesland)
-* [European Union][59]
+* [Danmark][56] {:target="_blank"}
+* [United Kingdom][57]{:target="_blank"}
+* [Deutschland][58]{:target="_blank"} (husk at der kan være forskellig lovgivning afhængig af Bundesland)
+* [European Union][59]{:target="_blank"}
 
 ### Fødevaredata
 
-* [USDA Food Composition Databases][60]
-* [DTU Fødevaredata][61]
-* [Beregning af næringsdeklarationer][62]
+* [USDA Food Composition Databases][60]{:target="_blank"}
+* [DTU Fødevaredata][61]{:target="_blank"}
+* [Beregning af næringsdeklarationer][62]{:target="_blank"}
 
 ### Godkendte fødevarevirksomheder
 
-* [Liste over autoriserede fødevarevirksomheder i Danmark][63]
-* [Oversigt over EU virksomheder][64]
-* [Søgning på EU virksomheder][65]
-* Certificerede virksomheder af hhv. [BRC][66], [IFS][67] og [FSSC][68]
+* [Liste over autoriserede fødevarevirksomheder i Danmark][63]{:target="_blank"}
+* [Oversigt over EU virksomheder][64]{:target="_blank"}
+* [Søgning på EU virksomheder][65]{:target="_blank"}
+* Certificerede virksomheder af hhv. [BRC][66]{:target="_blank"}, [IFS][67]{:target="_blank"} og [FSSC][68]{:target="_blank"}
 
 [21]: https://www.verdensmaalene.dk/ "https://www.verdensmaalene.dk/"
 [22]: https://www.unglobalcompact.org/ "https://www.unglobalcompact.org/"
