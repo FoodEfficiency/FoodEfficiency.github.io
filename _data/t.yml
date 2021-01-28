@@ -21,6 +21,9 @@ da:
   sidebar:
     pages:
       title: Inspiration
+  updates:
+    title: LinkedIn Updates
+    url: https://linkedin.com/company/foodefficiency
 en:
   global:
     language_select: "Language:"
@@ -42,6 +45,9 @@ en:
   sidebar:
     pages:
       title: Inspiration
+  updates:
+    title: LinkedIn Updates
+    url: https://linkedin.com/company/foodefficiency
 
 
 # Alternatively site.data.t.home.title[nav_language].label

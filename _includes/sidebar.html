@@ -24,6 +24,12 @@
         </a>
       </li>
     {%- endif %}
+      <li>
+        <a class="sb-post-link page-link" rel="noreferrer noopener" target="_blank" href="{{ site.data.t[current_lang].updates.url }}">
+          <svg class="svg-icon grey"><use xlink:href="{{ '/assets/foodefficiency-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+          {{ site.data.t[current_lang].updates.title }}
+        </a>
+      </li>
     </ul>
   </nav>
   {%- endif %}
