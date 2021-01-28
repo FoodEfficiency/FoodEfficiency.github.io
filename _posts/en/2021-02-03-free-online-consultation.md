@@ -3,6 +3,7 @@ layout: post
 title:  "Free on-line consultation on sustainability"
 date:   2021-02-03 09:11:00 +0100
 tags: foodefficiency
+ref: free-online-consultation
 ---
 To celebrate our new energy efficient webpage we offer a 50 min free on-line video consultation to small and midium-size companies (up to 200 employees) on sustainability.
 

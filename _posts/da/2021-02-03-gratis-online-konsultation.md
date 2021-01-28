@@ -3,6 +3,7 @@ layout: post
 title:  "Gratis on-line konsultation"
 date:   2021-02-03 09:11:00 +0100
 tags: foodefficiency
+ref: free-online-consultation
 ---
 For på fejre vores nye energifektive hjemmeside tilbyder vi i februar måned 50 min gratis videokonsultation til små og mellemstore virksomheder (op til 200 medarbejderer) om bæredygtighed.
 
