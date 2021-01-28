@@ -30,7 +30,7 @@ ref: publications
 
 * [Myter og misforståelser om brugen af mundbind (Nov 2020)](https://www.linkedin.com/posts/karin-hansen-a14446_mundbind-og-alternativer-som-smitteforebyggende-activity-6732958242667851776-Jqpj){:target="_blank"}
 
-* <a class="sb-post-link page-link" rel="noreferrer noopener" target="_blank" href="https://linkedin.com/company/foodefficiency"><svg class="svg-icon grey"><use xlink:href="/assets/foodefficiency-social-icons.svg#linkedin"></use></svg>LinkedIn Updates</a>
+<a class="sb-post-link page-link" rel="noreferrer noopener" target="_blank" href="https://linkedin.com/company/foodefficiency"><svg class="svg-icon grey"><use xlink:href="/assets/foodefficiency-social-icons.svg#linkedin"></use></svg>LinkedIn Updates</a>
 
 ## Egne og eksterne publikationer
 
