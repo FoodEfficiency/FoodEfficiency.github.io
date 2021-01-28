@@ -62,7 +62,7 @@ ref: links
 * Arbejdstilsynet - [Vejledninger][55]{:target="_blank"}
 
 ### Lovgivning - Generelle søgesider
-* [Danmark][56] {:target="_blank"}
+* [Danmark][56]{:target="_blank"}
 * [United Kingdom][57]{:target="_blank"}
 * [Deutschland][58]{:target="_blank"} (husk at der kan være forskellig lovgivning afhængig af Bundesland)
 * [European Union][59]{:target="_blank"}
