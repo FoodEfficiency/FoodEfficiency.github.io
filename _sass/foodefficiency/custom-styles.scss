@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
       & > a, & > button {
         color: #999;
-        padding: 9px; // 11px;
+        padding: 5px 0; // 9px; // 11px;
         vertical-align: baseline;
         &:hover {
           background-color: $brand-color-light;
@@ -121,6 +121,13 @@ h1, h2, h3, h4, h5, h6 {
         background-color: $brand-color-light;
         color: $fe-sidebar-background;
       }
+    }
+  }
+
+  // Only applies to top-level menu
+  & > ul > li.page-link {
+    & > a, & > button {
+      padding: 9px; // 11px;
     }
   }
 
@@ -150,15 +157,15 @@ h1, h2, h3, h4, h5, h6 {
       background-color: lighten($brand-color, 12%);
       border-radius: 4px;
       // box-shadow: 0 0.15em 0.25em rgba(black, 0.25);
-      padding: 0.5em 0;
-      // min-width: 15ch;
+      // display: block;
+      min-width: 90%; // 15ch;
+      padding: 0 0.5em 1em;
 
       position: absolute;
       // Pull up to overlap the parent list item very slightly
       top: calc(100% - 0.25rem);
       // Use the left from absolute position to shift the left side
       left: 50%;
-      min-width: 90%;
 
       a {
         color: #444;
