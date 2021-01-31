@@ -219,6 +219,9 @@ h1, h2, h3, h4, h5, h6 {
   img[src*="w255"], .medium {
     max-width: 255px;
   }
+  img[src*="w360"], .medium {
+    max-width: 360px;
+  }
   img[src*="w450"], .medium {
     max-width: 450px;
   }
