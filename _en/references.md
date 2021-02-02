@@ -9,12 +9,15 @@ ref: references
 # References - FoodEfficiency
 
 ![Einar Willumsen Logo][15]
-Sustainability mapping of supply chain and production at flavor manufacture [Einar Willumsen][], using UN’s SDG as guideline for identification and setting objectives and targets for future sustainability work.  Facilitation of various CSR related tasks including monitoring and reporting and internal awareness training. 
+
+Sustainability mapping of supply chain and production at flavor manufacture [Einar Willumsen](https://einarwillumsen.com/), using UN’s SDG as guideline for identification and setting objectives and targets for future sustainability work.  Facilitation of various CSR related tasks including monitoring and reporting and internal awareness training. 
 
 ![Bornholms Andelsmejeri Logo][16]
+
 Restructuring and revision of food safety management system from BRC to FSSC 22000 at Bornholms Andelsmejeri. 
 
-![Starbucks_logo Logo] [17]
+![Starbucks_logo Logo][17]
+
 Starbucks Quality Assurance Standards Audit – Unannounced audits conducted at 14 outlets in Demark with focus on Food Safety, Cleanliness, Facilities - Condition and Maintenance and Super Critical Opportunities (Public health impact).
 
 ![Beierholm Nørup Dairy Logo][1]
