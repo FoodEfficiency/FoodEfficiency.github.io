@@ -12,7 +12,7 @@ redirect_from:
 
 # How we work
 
-The key word through working relationships and projects are knowledge sharing and value creation and this is what drives my mind-set and approach to new tasks. 
+The key word through working relationships and projects is knowledge sharing and value creation and this is what drives my mind-set and approach to new tasks. 
 
 When implementing a standard or documenting an organisations sustainability performance, it must provide value for the company, its strategy, in the context in which it is located and among its employees and stakeholders. 
 
