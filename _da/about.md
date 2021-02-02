@@ -10,7 +10,7 @@ redirect_from:
   - /about/karin-hansen-background
 ---
 
-# About - FoodEfficiency
+# Om os - FoodEfficiency
 
 ![Food Efficiency v/Karin Hansen - Start Up][1]
 **FoodEfficiency** blev etableret i juli 2012 som uafhængig rådgiver indenfor kvaltitet, miljø, arbejdsmiljø og bæredygtighed. Kundebasen er primært i fødevareforsyningkæden hvor vi har over 20 års international erfaring. 
