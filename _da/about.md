@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Om os
 permalink: /about/
 menu: foodefficiency
 index: 1
