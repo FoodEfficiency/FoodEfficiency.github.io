@@ -16,7 +16,7 @@ ref: links
 * [SEDEX][25]{:target="_blank"}
 * [EcoVadis][26]{:target="_blank"}
 * [ISO and SDG][27]{:target="_blank"}
-* [Circular Economy - Generel Introduktion][28]{:target="_blank"}
+* [Circular Economy - Generel Introduction][28]{:target="_blank"}
 * [BSI on Circular Economy][29]{:target="_blank"}
 * [Circular Economy in the Food Chain][30]{:target="_blank"}
 
