@@ -24,7 +24,8 @@ External Quality Manager with responsibility for ISO22000 certified management s
 ![Arla Foods Logo][3]
 
 Interim QEHS Manager for [Arla Foods][4], Nordic Supply Chain
-Developmeng and audit of GMP+ Manual for Arla Foods Logistics
+
+Development and audit of GMP+ Manual for Arla Foods Logistics
 
 ![Grundfos Logo][5]
 
