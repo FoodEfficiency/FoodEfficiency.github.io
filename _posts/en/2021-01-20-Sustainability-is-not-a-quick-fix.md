@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Sustainability is not a quick fix"
-date:   2020-01-20 06:54:00 +0100
+date:   2021-01-20 06:54:00 +0100
 tags: foodefficiency
 <!-- ref: tbc -->
-
 ---
 Sustainability is not a quick fix but an ongoing focus on impact reduction and social focus in your own organization AND in your supply chain and society.
 
@@ -17,4 +16,4 @@ A few examples from our daily household;
 * Biodegradable plastic container but where the food product sticks inside so you loose 5-15% of your product.
 
 So it is important that actions and investments are carefully assessed through all aspects of the supply chain including consumer behaviour and disposal, and in these situations the 17 Sustainable Development Goals are useful as a checklist or input for brainstorm of new activities.
-![SDG Photo][/assets/images/SDG Photo.png#pull-right#w450 "SDG Photo"]
+![SDG Photo](/assets/images/SDG Photo.png#pull-right#w450)
