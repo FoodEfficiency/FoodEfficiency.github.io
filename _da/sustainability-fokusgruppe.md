@@ -7,8 +7,9 @@ ref: focusgroup
 ---
 # Fokusgrupper
 
-![Sustainability image](/assets/images/CSR meeting_focus group.png#pull-right#w360)
 FoodEfficiency tilbyder at faciliteter fokus grupper om bæredygtighed, gerne som et målrettet forløb for en gruppe virksomheder eller produktionsenheder indenfor en koncern. 
+
+![Sustainability image](/assets/images/CSR meeting_focus group.png#w450)
 
 Her vil forskellige aspekter præsenteres over en møderække hvert med deres fokus, f.eks. 
 * Energi og CO2

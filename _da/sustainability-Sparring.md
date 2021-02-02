@@ -6,6 +6,8 @@ permalink: /sparring
 ref: Partner 
 ---
 # Sparringspartner og seminarer 
+
+![Sustainability image](/assets/images/CSR meeting_seminar.png#pull-right#w360)
 FoodEfficiency kan være Jeres sparringspartner i forbindelse med kortlægning af organisationens aktiviteter (direkte og indirekte), udarbejdelse af mål og målsætninger samt kommunikation (intern og ekstern) i relation til bæredygtighed. 
 
 Derudover afholder FoodEfficiency løbende introduktions seminar til virksomheder og organisationer omkring bæredygtighed. 

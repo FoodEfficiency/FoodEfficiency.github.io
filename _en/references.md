@@ -1,7 +1,7 @@
 ---
 title: References
 menu: foodefficiency
-<!-- permalink: /references/ -->
+<!-- permalink: /en/references/ -->
 index: 4
 ref: references
 ---

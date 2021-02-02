@@ -3,14 +3,15 @@ title: Sustainability at work
 index: 2
 menu: sustainability
 permalink: /en/sustainability_at_work 
-ref: about_sustainability
+ref: sustainability_at_work
 ---
 # Sustainability at work
 
-![Sustainability image](/assets/images/CSR Word Cloud.png#pull-right#w360)
 For more than 20 years, Karin has worked directly as well as indirectly with sustainability - starting with a water and energy optimization project at Bov Dairy in collaboration with the local water company. 
 
 In 2012, Karin published her first article on sustainability in the WorldWide Edition of the Dairy Journal - the same year she was in Chile to facilitate a sustainability study for a large Chilean food producer. 
+
+![Sustainability image](/assets/images/CSR meeting_seminar.png#w450)
 
 In 2015, she introduced the UN's Sustainable Development Goals in relation to food manufacturing at a seminar held by the Danish Dairy Technical Society. 
 

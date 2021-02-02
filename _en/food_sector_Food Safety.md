@@ -2,7 +2,7 @@
 title: Food Safety
 index: 1
 menu: food_sector
-permalink: /food_safety
+permalink: /en/food_safety
 ref: food_safety
 ---
 

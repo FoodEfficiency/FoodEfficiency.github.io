@@ -1,6 +1,6 @@
 ---
 title: Contact
-<!-- permalink: /contact/ -->
+<!-- permalink: /en/contact/ -->
 menu: foodefficiency
 index: 3
 ref: contact

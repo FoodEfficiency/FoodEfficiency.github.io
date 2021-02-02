@@ -7,7 +7,7 @@ ref: about_sustainability
 ---
 # What is Sustainability?
 
-![Sustainability image](/assets/images/CSR Word Cloud.png#pull-right#w360)
+![Sustainability image](/assets/images/SDG.png#pull-right#w360)
 Sustainability is nothing new and the very concept of Sustainability has been known as a legal term since 1907. 
 
 When we today talk about sustainability, we most often use the definition from the UN's Bruntland report “Our common Future” from 1987, where sustainability is described as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs”
