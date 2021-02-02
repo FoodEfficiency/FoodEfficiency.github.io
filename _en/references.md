@@ -8,13 +8,13 @@ ref: references
 
 # References - FoodEfficiency
 
-![Einar Willumsen Logo][]
+![Einar Willumsen Logo][15]
 Sustainability mapping of supply chain and production at flavor manufacture [Einar Willumsen][], using UN’s SDG as guideline for identification and setting objectives and targets for future sustainability work.  Facilitation of various CSR related tasks including monitoring and reporting and internal awareness training. 
 
-![Bornholms Andelsmejeri Logo][]
+![Bornholms Andelsmejeri Logo][16]
 Restructuring and revision of food safety management system from BRC to FSSC 22000 at Bornholms Andelsmejeri. 
 
-![Starbucks_logo Logo] []
+![Starbucks_logo Logo] [17]
 Starbucks Quality Assurance Standards Audit – Unannounced audits conducted at 14 outlets in Demark with focus on Food Safety, Cleanliness, Facilities - Condition and Maintenance and Super Critical Opportunities (Public health impact).
 
 ![Beierholm Nørup Dairy Logo][1]
@@ -61,3 +61,6 @@ Food authorization adviser for central kitchens in [Horsens municipality][14]
 [12]: http://www.foedevaremidt.dk/default.png#thumbnail "http://www.foedevaremidt.dk/default.asp"
 [13]: /assets/images/logo/Horsens-Kom.png#thumbnail "Horsens Kommune Logo"
 [14]: https://horsens.dk "https://horsens.dk"
+[15]: /assets/images/logo/EW.png#thumbnail "Einar Willumsen Logo"
+[16]: /assets/images/logo/Bornholm.png#thumbnail "Bornholm Logo"
+[17]: /assets/images/logo/Starbucks_Logo.png#thumbnail "Starbucks_logo Logo"
