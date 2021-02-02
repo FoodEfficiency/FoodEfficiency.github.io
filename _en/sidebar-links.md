@@ -46,14 +46,14 @@ ref: links
 * EU [Machine Directive / Machine Safety][52]{:target="_blank"}
 * EU [ATEX ((Equipment for potentially explosive atmospheres)][53]{:target="_blank"}
 
-### Environment ![Bæredygtighed][54]
+### Environment
 
 * EU -[ Industry and Environment][55]{:target="_blank"}
 * EU - [Industrial Emissions][56]{:target="_blank"} and [Best Available Technique (BAT)][57]{:target="_blank"}
 * Danish [Environmental Agency][58]{:target="_blank"}
 * British [Environmental Agency][59]{:target="_blank"}
 
-### **General Legislation**
+### General Legislation
 
 * [Danish Legislation][60]{:target="_blank"}
 * [British Legislation][61]{:target="_blank"}
