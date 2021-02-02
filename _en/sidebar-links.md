@@ -64,9 +64,9 @@ ref: links
 
 * [Approved EU food establishments][64]{:target="_blank"}
 * [Search for an apporved food manufacture][65]{:target="_blank"}
-* [BRC Approved companies][66]{:target="_blank"}
+* [BRC certified companies][66]{:target="_blank"}
 * [FSSC 22000 Certificates Directory][67]{:target="_blank"}
-* [IFS approved organisations][68]{:target="_blank"}
+* [IFS certified organisations][68]{:target="_blank"}
 
 ### Food Data 
 
