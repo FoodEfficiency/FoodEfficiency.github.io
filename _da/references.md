@@ -16,6 +16,10 @@ CSR projekt - kortlægning af forsyningskæde og produktion, identifikation af f
 
 Omlægning og revision af kvalitetsledelsessytem fra BRC til FSSC 22000 på [Bornholms Andelsmejeri][3].
 
+![Starbucks_logo Logo][18]
+
+Starbucks Quality Assurance Standards Audit – Uanmeldt audit gennemført på 14 restaurationer I Danmark med fokus på fødevaresikkerhed, renlighed, faciliteter og kritiske forbedringer. 
+
 ![Beierholm Logo][4]
 
 Ekstern kvalitets chef for [Nørup Mejeri][5] med ansvar for ISO22000 certificeret kvalitetsledelsessystem samt support til andre miljø, arbejdsmiljø og udviklingsopgaver.
@@ -63,3 +67,4 @@ Autorisations rådgivning for centralkøkkener under [Horsenes Kommune][17]
 [15]: http://www.foedevaremidt.dk/ "http://www.foedevaremidt.dk/"
 [16]: /assets/images/logo/Horsens-Kom.png#thumbnail "Horsens Kommune Logo"
 [17]: https://horsens.dk "https://horsens.dk"
+[18]: /assets/images/logo/EW.png#thumbnail "Starbucks_logo Logo"
