@@ -2,9 +2,13 @@
 title: Sustainability
 menu: header
 index: 2
+<!-- placeholder: true -->
 ref: sustainability
 ---
+
 # Bæredygtighed
+
+![Sustainability image](/assets/images/SDG.png#pull-right#w360)
 FoodEfficiency har i over 20 år arbejdet direkte såvel som indirekte med bæredygtighed – startende med et vand og energi optimerings projekt på Bov Mejeri i samarbejde med det lokale forsyningsselskab.
 
 I 2012 udkom Karin’s første artikel om bæredygtighed i Mælkeritidendes World Wide udgave – samme år som hun var i Chile for at facilitere et større bæredygtighedsstudie for en chilensk fødevareproducent. 
@@ -18,4 +22,3 @@ Men med den rigtige indsats er der meget værdiskabelse i bæredygtighedsarbejde
 *	Minimere klima- og miljøpåvirkninger - direkte og indirekte 
 *	Tiltrække og fastholde menneskelige ressourcer og sikre velfærd
 *	Sikre indtjening og kapital på den lange bane 
-

@@ -24,6 +24,7 @@ In addition, Karin is a certified BRC 3rd party auditor for supplier audits, ISO
 
 Previous employment relationships and [references are available from CV][2] and [LinkedIn profile.][3]
 
-[1]: /assets/img/FoodEfficiency-StartUp.png#pull-right "Food Efficiency v/karin Hansen - Start Up"
+[0]: /assets/img/FoodEfficiency-StartUp.png#pull-right "Food Efficiency v/karin Hansen - Start Up"
+[1]: /assets/images/00%20FoodEfficiency%20StartUp.png#pull-right#w255 "Food Efficiency v/karin Hansen - Start Up"
 [2]: /assets/artikler_publikationer/KEH%20CV%20QEHS%20and%20CSR%20development.pdf "KEH CV QEHS and CSR Development "
 [3]: https://www.linkedin.com/in/karin-hansen-a14446/ "https://www.linkedin.com/in/karin-hansen-a14446/"

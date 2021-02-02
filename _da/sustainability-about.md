@@ -3,12 +3,14 @@ title: Hvad er bæredygtighed?
 index: 1
 menu: sustainability
 permalink: /about-sustainability
-ref: About sustainability
+ref: about_sustainability
 ---
 # Hvad er bæredygtighed?
+
+![Sustainability image](/assets/images/CSR Word Cloud.png#pull-right#w360)
 Bæredygtighed er ikke noget nyt og selve begrebet Sustainability er kendt som juridisk term siden 1907. 
 
-Når vi i dag taler om bæredygtighed tager vi oftest udgangspunkt I FN’s Bruntlandsrapport fra 1987 hvor bæredygtighed er defineret som ”Skaffer menneskene og miljøet det bedste uden at skade fremtidige generationers mulighed for at dække deres behov”
+Når vi i dag taler om bæredygtighed tager vi oftest udgangspunkt i FN’s Bruntlandsrapport fra 1987 hvor bæredygtighed er defineret som ”Skaffer menneskene og miljøet det bedste uden at skade fremtidige generationers mulighed for at dække deres behov”
 
 Når der tales om bæredygtighed er det tit ord som CSR / ESG, Cirkulær økonomi, Bionedbrydelig, CO2 neutral, verdensmålene, SEDEX, Global Compact og Science Based Targeting og den tredelte bundlinje man hører – og der dukker hele tiden nye udtryk op. 
 

@@ -2,7 +2,7 @@
 title: Environment
 index: 2
 menu: food_sector
-permalink: /environment
+permalink: /en/environment
 ref: environment
 redirect_from:
   - /services/miljo
@@ -10,6 +10,7 @@ redirect_from:
 
 # Environmental Management
 
+![Food Safety Environment image](/assets/images/00 Miljo.jpg#pull-right#w360)
 Karin has extensive experience developing environmental goals and objectives, environmental reporting as well as internal and external communication on the environment and climate. 
 She was responsible for establishing Arla Foods' British environmental organization, including communication, reporting and knowledge sharing.
 

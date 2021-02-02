@@ -2,14 +2,15 @@
 title: Hygiene 
 index: 3
 menu: food_sector
-permalink: /Hygiene
-ref: Hygiene
+permalink: /en/hygiene
+ref: food_safety_hygiene
 redirect_from:
   - /services/Hygiene
 ---
 
 # Hygiene and compliance with Danish Food Safety law
 
+![Food Safety image](/assets/images/00 About.jpg#pull-right#w360)
 Companies that handle or import food in Denmark must be registered with the Danish Food Safety Administration and document the necessary control and handling of their food related activities.
 
 This applies for restaurants and canteens, production premises and warehouses to ensure documentation of various activities such as traceability and cleaning as well as the preparation of a “egenkontrolprogram” (self-inspection program).

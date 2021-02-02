@@ -8,6 +8,7 @@ ref: food_safety
 
 # Food Safety and Quality Management
 
+![Food Safety Quality image](/assets/images/00 Kvalitet.png#pull-right#w360)
 Karin has worked with quality and food safety standards for over 20 years, starting out with basic HACCP implementation in 1996.
 
 For the past 8 years, it has primarily been the GFSI (Global Food Safety Initiative) recognized food safety standards she has been working with, such as ISO22000 FSSC, BRC and IFS within both food production, storage and transport.

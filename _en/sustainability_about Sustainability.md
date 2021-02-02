@@ -2,11 +2,12 @@
 title: Sustainability at work
 index: 2
 menu: sustainability
-permalink: /Sustainability_at_work 
-ref: Partner 
+permalink: /en/sustainability_at_work 
+ref: about_sustainability
 ---
 # Sustainability at work
 
+![Sustainability image](/assets/images/CSR Word Cloud.png#pull-right#w360)
 For more than 20 years, Karin has worked directly as well as indirectly with sustainability - starting with a water and energy optimization project at Bov Dairy in collaboration with the local water company. 
 
 In 2012, Karin published her first article on sustainability in the WorldWide Edition of the Dairy Journal - the same year she was in Chile to facilitate a sustainability study for a large Chilean food producer. 
@@ -18,4 +19,3 @@ However, there is a lot of value creation in the sustainability work and it can,
 * Strengthen collaboration, risk minimization and management across the supply chain Minimize climate and environmental impacts - directly and indirectly 
 * Attract and retain human resources and ensure welfare 
 * Secure earnings and capital in the long run 
-
