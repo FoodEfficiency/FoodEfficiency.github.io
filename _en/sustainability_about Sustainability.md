@@ -1,6 +1,6 @@
 ---
 title: Sustainability at work
-index: 1
+index: 2
 menu: sustainability
 permalink: /Sustainability_at_work 
 ref: Partner 
