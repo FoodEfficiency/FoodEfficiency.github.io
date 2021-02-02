@@ -1,5 +1,5 @@
 ---
-title: Hygiene and Danish Food Safety Law
+title: Hygiene 
 index: 2
 menu: food_sector
 permalink: /Hygiene
