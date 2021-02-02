@@ -2,7 +2,7 @@
 title: Kontakt os
 <!-- permalink: /contact/ -->
 menu: foodefficiency
-index: 2
+index: 3
 ref: contact
 ---
 

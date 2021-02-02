@@ -1,6 +1,6 @@
 ---
 title: Produktionsoverflytning og licensproduktion
-index: 2
+index: 4
 menu: food_sector
 permalink: /product-transfer-and-licence-production
 ref: product_transfer

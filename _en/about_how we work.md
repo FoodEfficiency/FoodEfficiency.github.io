@@ -1,14 +1,15 @@
 ---
 layout: page
 title: How we work
-permalink: /about/
+permalink: /en/how_we_work/
 menu: foodefficiency
 index: 2
-lang: da
-ref: about
+lang: en
+ref: how_we_work
 redirect_from:
-  - /about/karin-hansen-background
-  
+  - /en/about/karin-hansen-background
+---
+
 # How we work
 
 The key word through all working relationships and projects has been knowledge sharing and value creation and this is what drives my mind-set and approach to new tasks. 
@@ -22,4 +23,4 @@ Quality and sustainability should therefore not just be a certificate on the wal
 * Training provider - introduction to sustainability and food safety
 * External manager – food safety, quality and environmental management systems
 * Interim manager / project employment - 2-4 days a week depending on duration. 
-*Consultant - for establishing, developing or reorganization of management systems 
+* Consultant - for establishing, developing or reorganization of management systems 

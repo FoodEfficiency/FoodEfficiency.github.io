@@ -1,6 +1,6 @@
 ---
 title: Hygiejne & Egenkontrol
-index: 2
+index: 3
 menu: food_sector
 permalink: /hygiejne-og-egenkontrol
 ref: food_safety

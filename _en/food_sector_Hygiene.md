@@ -1,6 +1,6 @@
 ---
 title: Hygiene 
-index: 2
+index: 3
 menu: food_sector
 permalink: /Hygiene
 ref: Hygiene
