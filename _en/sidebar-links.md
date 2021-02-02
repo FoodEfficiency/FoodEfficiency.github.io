@@ -8,7 +8,7 @@ ref: links
 
 # Links
 
-### CSR and Sustainability ![Sdg][21]
+### CSR and Sustainability 
 
 * [Sustainable Development Goals (UN 17 SDG)][22]{:target="_blank"}
 * [UN Global Compact][23]{:target="_blank"}
@@ -20,7 +20,7 @@ ref: links
 * [BSI on Circular Economy][29]{:target="_blank"}
 * [Circular Economy in the Food Chain][30]{:target="_blank"}
 
-### Quality and Food Safety ![00 About][31]
+### Quality and Food Safety 
 
 * [Danish Food Safety Authorities][32]{:target="_blank"}
 * [European Food Safety][33]{:target="_blank"}
@@ -31,7 +31,7 @@ ref: links
 * Global Food Safety Initiative [(GFSI)][39]{:target="_blank"}
 * Some GFSI recognized standards - [BRC][40]{:target="_blank"}, [IFS][41]{:target="_blank"}, ISO22000 [FSSC][42]{:target="_blank"}
 
-### Equipment, Technology and Machinery ![EHEDG][43]
+### Equipment, Technology and Machinery 
 
 * Hygenic Design - [EHEDG][44]{:target="_blank"}
 * Hygenic Design - [Staalcentrun Guidelines][45]{:target="_blank"} Staalcentrum has been ceased -_ we hold old copies of the guidelines and can send them per request. _
