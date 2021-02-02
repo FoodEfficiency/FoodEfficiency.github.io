@@ -44,7 +44,7 @@ ref: links
 * [Danish Health & Safety authorities (ArbejdsTilsynet, AT)][50]{:target="_blank"}
 * [UK Health & Safety Executive][51]{:target="_blank"}
 * EU [Machine Directive / Machine Safety][52]{:target="_blank"}
-* EU [ATEX ((Equipment for potentially explosive atmospheres)][53]{:target="_blank"}
+* EU [ATEX (Equipment for potentially explosive atmospheres)][53]{:target="_blank"}
 
 ### Environment
 
