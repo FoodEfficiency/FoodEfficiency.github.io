@@ -67,4 +67,4 @@ Autorisations rådgivning for centralkøkkener under [Horsenes Kommune][17]
 [15]: http://www.foedevaremidt.dk/ "http://www.foedevaremidt.dk/"
 [16]: /assets/images/logo/Horsens-Kom.png#thumbnail "Horsens Kommune Logo"
 [17]: https://horsens.dk "https://horsens.dk"
-[18]: /assets/images/logo/EW.png#thumbnail "Starbucks_logo Logo"
+[18]: /assets/images/logo/Starbucks_Logo.png#thumbnail "Starbucks_logo Logo"
