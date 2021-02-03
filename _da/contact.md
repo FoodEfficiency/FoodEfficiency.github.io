@@ -48,10 +48,10 @@ ref: contact
 </div>
 <script type="text/javascript">
 function clearInquiryForm() {
-  $('#inquiry_message').value = "";
-  $('#inquiry_name').value = "";
-  $('#inquiry_email').value = "";
-  $('#inquiry_phone').value = "";
+  document.getElementById("inquiry_message").value = "";
+  document.getElementById("inquiry_name").value = "";
+  document.getElementById("inquiry_email").value = "";
+  document.getElementById("inquiry_phone").value = "";
 }
 
 // ContactUs API
