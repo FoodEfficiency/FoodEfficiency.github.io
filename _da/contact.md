@@ -67,9 +67,9 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.')
   }).catch(err => {
     // console.log(err)
-    alert("Udfyld venligst felterne: besked, name, email og telefon")
+    alert("Udfyld venligst felterne: besked, navn, email og telefon")
   })
   return true;
 });
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+<script src="/assets/axios.min.js" src0="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>

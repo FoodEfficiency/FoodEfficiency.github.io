@@ -69,4 +69,4 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   return true;
 });
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+<script src="/assets/axios.min.js"></script>
