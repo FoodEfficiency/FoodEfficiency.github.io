@@ -60,8 +60,8 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   const data = { locale, message, name, lastname, email, phone }
   const url = 'https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send';
   const headers = {
-    'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Credentials': true,
+    'Access-Control-Allow-Origin': '*'
+    // 'Access-Control-Allow-Credentials': true,
   }
   axios.post(url, data, headers).then(res => {
     alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.')
