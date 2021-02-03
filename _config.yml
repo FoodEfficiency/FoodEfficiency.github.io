@@ -51,12 +51,6 @@ exclude:
   - LICENSE
   - README.md
 
-# Custom headers
-webrick:
-  headers:
-    Access-Control-Allow-Origin: http://www.foodefficiency.eu,https://www.foodefficiency.eu,https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send
-    Access-Control-Allow-Methods: GET,PUT,POST,DELETE
-
 # I18n - default language and definitions
 # jekyll-multiple-languages-plugin or jekyll-polyglot settings:
 default_lang: "da"
