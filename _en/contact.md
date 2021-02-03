@@ -72,6 +72,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     alert("Thanks for your inquiry.  We'll get back to you as soon as we can.");
     clearInquiryForm();
   }).catch(err => {
+    console.log(err)
     alert("Could not submit yor contact request. Please specify inquiry parameters: message, name, email and phone");
   })
   return true;

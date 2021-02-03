@@ -74,7 +74,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.');
     clearInquiryForm();
   }).catch(err => {
-    // console.log(err)
+    console.log(err)
     alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon");
   })
   return true;
