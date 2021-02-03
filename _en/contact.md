@@ -45,7 +45,14 @@ ref: contact
 </div>
 </div>
 <script type="text/javascript">
- // ContactUs API
+function clearInquiryForm() {
+  $('#inquiry_message').value = "";
+  $('#inquiry_name').value = "";
+  $('#inquiry_email').value = "";
+  $('#inquiry_phone').value = "";
+}
+
+// ContactUs API
 document.getElementById("contact_submit").addEventListener("click", function(event){
   event.preventDefault()
 
@@ -62,9 +69,10 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     'Access-Control-Allow-Credentials': true,
   }
   axios.post(url, data, headers).then(res => {
-    alert("Thanks for your inquiry.  We'll get back to you as soon as we can.")
+    alert("Thanks for your inquiry.  We'll get back to you as soon as we can.");
+    clearInquiryForm();
   }).catch(err => {
-    alert("Please specify inquiry parameters: message, name, email and phone")
+    alert("Could not submit yor contact request. Please specify inquiry parameters: message, name, email and phone");
   })
   return true;
 });

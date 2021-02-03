@@ -47,7 +47,14 @@ ref: contact
 </div>
 </div>
 <script type="text/javascript">
- // ContactUs API
+function clearInquiryForm() {
+  $('#inquiry_message').value = "";
+  $('#inquiry_name').value = "";
+  $('#inquiry_email').value = "";
+  $('#inquiry_phone').value = "";
+}
+
+// ContactUs API
 document.getElementById("contact_submit").addEventListener("click", function(event){
   event.preventDefault()
 
@@ -64,10 +71,11 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     'Access-Control-Allow-Credentials': true,
   }
   axios.post(url, data, headers).then(res => {
-    alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.')
+    alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.');
+    clearInquiryForm();
   }).catch(err => {
     // console.log(err)
-    alert("Udfyld venligst felterne: besked, navn, email og telefon")
+    alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon");
   })
   return true;
 });
