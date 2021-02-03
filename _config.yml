@@ -55,7 +55,6 @@ exclude:
 webrick:
   headers:
     Access-Control-Allow-Origin: *
-    Access-Control-Allow-Methods: *
 
 # I18n - default language and definitions
 # jekyll-multiple-languages-plugin or jekyll-polyglot settings:
