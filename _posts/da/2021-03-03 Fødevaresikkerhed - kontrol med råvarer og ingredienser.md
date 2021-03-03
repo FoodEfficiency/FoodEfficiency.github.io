@@ -1,11 +1,13 @@
-<img width="669" alt="Food Safety Risks" src="https://user-images.githubusercontent.com/75361000/109785625-98cdad80-7c0c-11eb-81c8-2ef757ea1b81.png">
 ---
 layout: post
 title:  "Fødevaresikkerhed - Kontrol med råvarer og ingredienser"
 date:   2021-03-03 09:11:00 +0100
 tags: foodefficiency
-ref: Food Safety and fraud
+ref: Food Safety Recalls
 ---
+
+<img width="669" alt="Food Safety Risks" src="https://user-images.githubusercontent.com/75361000/109785625-98cdad80-7c0c-11eb-81c8-2ef757ea1b81.png">
+
 At fokus på fødevarsikkerhed i råvarer og ingredienser, samt effektiv sporbarhed heraf, fortsat er vigtigt understreges tydeligt af det seneste halve års hændelser der har givet overskrifter i medierne og adskillige produkttilbagekaldelser. 
 
 I efteråret var blev der fundet adskillige partier af sesamfrø med et højet indhold af ethylenoxid. 
