@@ -6,6 +6,8 @@ tags: foodefficiency
 ref: Food Safety Recalls
 ---
 
+<img width="669" alt="Food Safety Risks" src="https://user-images.githubusercontent.com/75361000/109785625-98cdad80-7c0c-11eb-81c8-2ef757ea1b81.png">
+
 Due to recent incidents and product recalls we see the need for a continuing strong and effective focus food safety in raw materials and ingredients, as well as effective traceability, remains important is clearly emphasized by the events of the past six months that have made headlines in the media and several product recalls.
 
 In the autumn, several batches of sesame seeds with a high content of ethylene oxide were found.
