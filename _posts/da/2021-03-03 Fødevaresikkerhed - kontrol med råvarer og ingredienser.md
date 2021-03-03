@@ -1,3 +1,4 @@
+<img width="669" alt="Food Safety Risks" src="https://user-images.githubusercontent.com/75361000/109785625-98cdad80-7c0c-11eb-81c8-2ef757ea1b81.png">
 ---
 layout: post
 title:  "Fødevaresikkerhed - Kontrol med råvarer og ingredienser"
