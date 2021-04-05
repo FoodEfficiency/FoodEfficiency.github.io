@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Risk and opportunities in plant-based ingredients"
-date:   2021-03-05 09:11:00 +0100
+date:   2021-04-05 09:11:00 +0100
 tags: foodefficiency
-ref: Plant based ingredients
+ref: Plant Based Ingredients
 ---
 ![Garden 02 copy 2](https://user-images.githubusercontent.com/75361000/113566386-e32bbb00-960c-11eb-8f51-bef81ba18f25.jpg)
 
