@@ -6,7 +6,7 @@ tags: foodefficiency
 ref: Plant Based Ingredients
 ---
 
-Risici og muligheder med plantebaserede ingredienser. 
+# Risici og muligheder med plantebaserede ingredienser
 
 ![Garden 02 copy 2](https://user-images.githubusercontent.com/75361000/113566428-f3dc3100-960c-11eb-9c12-a6c428ab56ec.jpg#w450)
 
@@ -34,9 +34,9 @@ En anden måde at reducere klimapåvirkningen på er at erstatte de animalske r�
 
 Det er dog vigtigt at bemærke at ikke alle plantebaserede produkter er mere klimavenlige, eksempelvis sammenligningen mellem mandeldrik, havredrik og letmælk. 
 
-På verdensmarkedet forventes en årlig tocifret stigning i efterspørgsel på plantebaserede fødevarer*. En stor del af denne stigning er drevet af forbrugerens efterspørgsel på klimavenlige fødevarer, derudover er forbrugerens fokus på biodiversitet og dyrevelfærd er også med til at påvirke den globale efterspørgselsstigning.
+På verdensmarkedet forventes en årlig tocifret stigning i efterspørgsel på plantebaserede fødevarer<sup>(*)</sup>. En stor del af denne stigning er drevet af forbrugerens efterspørgsel på klimavenlige fødevarer, derudover er forbrugerens fokus på biodiversitet og dyrevelfærd er også med til at påvirke den globale efterspørgselsstigning.
 
-* [https://www.prnewswire.com/news-releases/plant-based-food-market-worth-74-2-billion-by-2027--exclusive-report-by-meticulous-research-301094884.html](https://www.prnewswire.com/news-releases/plant-based-food-market-worth-74-2-billion-by-2027--exclusive-report-by-meticulous-research-301094884.html)
+(*) [https://www.prnewswire.com/news-releases/plant-based-food-market-worth-74-2-billion-by-2027--exclusive-report-by-meticulous-research-301094884.html](https://www.prnewswire.com/news-releases/plant-based-food-market-worth-74-2-billion-by-2027--exclusive-report-by-meticulous-research-301094884.html)
 
 Når man som fødevareproducent vælger at anvende nye ingredienser i sin produktion eller lancerer nye eller ændrede fødevarer er der mange forhold der skal afdækkes i processen. 
 Ud over kapacitet, teknologi, omkostninger og afsætning skal også forhold i relation til fødevaresikkerhed og bæredygtighed vurderes forud for produktionsændringen gennemføres, som f.eks.;
