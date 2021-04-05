@@ -8,10 +8,7 @@ ref: Plant Based Ingredients
 
 Risici og muligheder med plantebaserede ingredienser. 
 
-
-
-
-![Garden 02 copy](https://user-images.githubusercontent.com/75361000/113565209-ed4cba00-960a-11eb-9e56-3908a10fe8f0.jpg)
+![Garden 02 copy 2](https://user-images.githubusercontent.com/75361000/113566428-f3dc3100-960c-11eb-9c12-a6c428ab56ec.jpg)
 
 
 Mindre klimaaftryk, stigende efterspørgsel på plantebaserede varer eller lavere produktionsomkostninger…... Der kan være mange grunde til at fødevareproducenter anvender flere plantebaserede ingredienser i deres produkter. 
