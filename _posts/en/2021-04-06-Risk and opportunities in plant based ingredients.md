@@ -54,6 +54,6 @@ In addition to capacity, technology, costs and sales, conditions in relation to 
 
 - **Shelf life and packaging** - In order to minimize food waste for consumption, it is critical that the choice of packaging (type and unit size), storage time and temperature are taken into account. Shelf life at room temperature provides an environmental benefit as the need for cooling is eliminated, but must not be at the risk of product spoiling which will lead to increased food waste.
 
-- **Expected usage** – Plant based mince and houmous can have the same ingredients, but where the mince requires heat treatment before use, different requirements must be in place on microbiology, cleaning and hygiene of a ready to eat product such as houmous. Requirements for the consumer's heat treatment and possibly freezing /re-reheating must be clearly stated on the label.
+- **Expected usage** – Plant based mince and hummus can have the same ingredients, but where the mince requires heat treatment before use, different requirements must be in place on microbiology, cleaning and hygiene of a ready to eat product such as hummus. Requirements for the consumer's heat treatment and possibly freezing /re-reheating must be clearly stated on the label.
 
 At [FoodEfficiency](http://www.foodefficiency.eu/en/), we have extensive experience in conducting and advising on risk assessments in the food supply chain, please contact us for a non-binding talk about risks and opportunities in connection with increased focus on plant-based raw materials.
