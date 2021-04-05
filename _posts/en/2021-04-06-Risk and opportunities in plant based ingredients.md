@@ -5,7 +5,8 @@ date:   2021-03-05 09:11:00 +0100
 tags: foodefficiency
 ref: Plant based ingredients
 ---
-![Garden 02 copy](https://user-images.githubusercontent.com/75361000/113565710-bd51e680-960b-11eb-9df6-082ee205da94.jpg)
+![Garden 02 copy 2](https://user-images.githubusercontent.com/75361000/113566386-e32bbb00-960c-11eb-8f51-bef81ba18f25.jpg)
+
 
 Risks and opportunities with plant-based ingredients.
 
