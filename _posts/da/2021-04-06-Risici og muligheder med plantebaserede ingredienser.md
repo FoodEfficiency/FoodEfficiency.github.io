@@ -16,6 +16,7 @@ Mindre klimaaftryk, stigende efterspørgsel på plantebaserede varer eller laver
 Fødevareproducenter kan påvirke deres klimaaftryk ved at justere på sammensætning imellem animalske og vegetabilske råvarer hvilket fremgår af eksemplerne i nedenstående tabel.
 
 |Produkt                  |CO<sub>2</sub>e/kg produkt|
+--- | ---
 |Smør                     |3.92|
 |Smørbart blandingsprodukt |3.80|
 |Margarine                |2.93|
