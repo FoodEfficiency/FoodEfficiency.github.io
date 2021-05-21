@@ -13,7 +13,7 @@ ref: Operational
 
 Råvareudnyttelse, ernæring, uddannelse, logistik er nogle af de områder som fødevareindustrien har arbejdet med igennem årtier, og som også understøtter bæredygtig udvikling, globalt såvel som lokalt.
 
-Derudover har vi i regi af vores ledelsessystemer (kvalitet, fødevaresikkerhed, miljø og arbejdsmiljø) en struktur for hvordan vi planlægger, udfører, måler, evaluerer og løbende forbedrer vores performances.
+Derudover har vi i regi af vores ledelsessystemer (kvalitet, fødevaresikkerhed, energi, miljø og arbejdsmiljø) en struktur for hvordan vi planlægger, udfører, måler, evaluerer og løbende forbedrer vores performances.
 
 ISO standardernes horisontale struktur er utroligt nyttige når man skal arbejde med forbedringer i en organsiation og følger herunder:
 - Organisationens rammer og vilkår
