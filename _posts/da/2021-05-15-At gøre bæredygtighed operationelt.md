@@ -26,4 +26,6 @@ ISO standardernes horisontale struktur er utroligt nyttige når man skal arbejde
 
 Denne struktur udgør, sammen med FN's verdensmål som checkliste, et godt grundlag for at virksomheder og organsiationer målrette sine aktiveter til også at understøtte en bæredygtig udvikling. 
 
-Læs mere om hvorledes vi kan anvende ledelsessystemer til at understøtte vores bæredygtighedsarbejde i denne artikel eller kontakt os for et uforpligtende møde. 
+Læs mere om hvorledes vi kan anvende ledelsessystemer til at understøtte vores bæredygtighedsarbejde i [denne artikel](/assets/publications/2021_At%20g%C3%B8re%20b%C3%A6redygtighed%20operationelt_Maj%202021.pdf) eller kontakt os for et uforpligtende møde. 
+
+
