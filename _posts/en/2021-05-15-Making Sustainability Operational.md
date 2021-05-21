@@ -26,4 +26,4 @@ This structure focus on;
 
 These focus areas can easily be adapted supporting sustainable development of business and organisation.
 
-Framework and examples are described in our recent article and you are welcome to contact us for further information and consultation. 
+Framework and examples are described in our [recent article](assets/publications/2021_Sustainability%20is%20more%20than%20focus%20on%20climate%20and%20CO2_May2021.pdf) and you are welcome to contact us for further information and consultation. 
