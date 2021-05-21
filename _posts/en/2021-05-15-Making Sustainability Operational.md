@@ -15,7 +15,7 @@ Raw material utilization, nutrition, education, logistics are some of the areas 
 
 Under the framework of our ISO management systems (quality, food safety, environment and occupational health and safety), we have a structure for how we plan, execute, measure, evaluate and continuously improve our performances, and this helps us implementing sustainability in our operation.
 
-This structure focus on
+This structure focus on;
 - Context of the organisation
 - Leadership
 - Planning
