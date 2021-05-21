@@ -6,10 +6,10 @@ tags: foodefficiency
 ref: Operational
 ---
 
-**Sustainability is more than climate and CO2**
 
 <img width="747" alt="FoodEfficiency and 17 SDG" src="https://user-images.githubusercontent.com/75361000/119141074-2323f180-ba45-11eb-9eea-d50bae6f8b9b.png">
 
+**Sustainability is more than climate and CO2**
 
 Raw material utilization, nutrition, education, logistics are some of the areas that the food industry has worked with for decades, and which also support sustainable development, globally as well as locally.
 
@@ -26,4 +26,4 @@ This structure focus on;
 
 These focus areas can easily be adapted supporting sustainable development of business and organisation.
 
-Framework and examples are described in our [recent article](assets/publications/2021_Sustainability%20is%20more%20than%20focus%20on%20climate%20and%20CO2_May2021.pdf) and you are welcome to contact us for further information and consultation. 
+Framework and examples are described in our [recent article](/assets/publications/2021_Sustainability%20is%20more%20than%20focus%20on%20climate%20and%20CO2_May2021.pdf) and you are welcome to contact us for further information and consultation. 
