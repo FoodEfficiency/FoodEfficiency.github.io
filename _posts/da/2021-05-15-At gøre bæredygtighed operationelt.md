@@ -6,7 +6,7 @@ tags: foodefficiency
 ref: Operational
 ---
 
-<img width="747" alt="FoodEfficiency and 17 SDG" src="https://user-images.githubusercontent.com/75361000/119142928-54052600-ba47-11eb-80bf-11e18a0c4130.png#w450">
+<img width="747" alt="FoodEfficiency and 17 SDG" src="https://user-images.githubusercontent.com/75361000/119142928-54052600-ba47-11eb-80bf-11e18a0c4130.png">
 
 
 **Bæredygtighed er mere end mediernes fokus på klima og CO2**
