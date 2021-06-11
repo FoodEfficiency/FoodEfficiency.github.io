@@ -1,12 +1,6 @@
 
 <img width="234" alt="EnergySolution" src="https://user-images.githubusercontent.com/75361000/121689008-69a8c100-cac4-11eb-8b13-e30c8815a27a.png">. ![Logo som](https://user-images.githubusercontent.com/75361000/121689065-775e4680-cac4-11eb-8d48-1e6145d08efd.jpg)
----
-layout: post
-title:  "Dobbeltseminar om ledelse, bæredygtighed og CO2"
-date:   2021-06-10 09:11:00 +0100
-tags: foodefficiency
-ref: seminar
----
+
 
 **Dobbelt eftermiddagsseminar om ledelse, bæredygtighed og CO2**
 
