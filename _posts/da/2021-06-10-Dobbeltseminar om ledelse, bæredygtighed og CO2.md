@@ -1,8 +1,15 @@
+---
+layout: post
+title:  "Dobbeltseminar om ledelse, bæredygtighed og CO2, den 30. juni 2021"
+date:   2021-06-10 09:11:00 +0100
+tags: foodefficiency
+ref: dobbelt_eftermiddagsseminar
+---
 
 <img width="234" alt="EnergySolution" src="https://user-images.githubusercontent.com/75361000/121689008-69a8c100-cac4-11eb-8b13-e30c8815a27a.png">. ![Logo som](https://user-images.githubusercontent.com/75361000/121689065-775e4680-cac4-11eb-8d48-1e6145d08efd.jpg)
 
 
-**Dobbelt eftermiddagsseminar om ledelse, bæredygtighed og <pre>CO</pre><sub>2</sub> den 30. juni 2021**
+**Dobbelt eftermiddagsseminar om ledelse, bæredygtighed og CO2**
 
 
 Den grønne dagsorden ruller og de seneste år har forståelsen af og engagementet omkring bæredygtighed udviklet sig. 
