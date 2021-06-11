@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Dobbeltseminar om ledelse, bæredygtighed og CO2"
