@@ -2,7 +2,7 @@
 <img width="234" alt="EnergySolution" src="https://user-images.githubusercontent.com/75361000/121689008-69a8c100-cac4-11eb-8b13-e30c8815a27a.png">. ![Logo som](https://user-images.githubusercontent.com/75361000/121689065-775e4680-cac4-11eb-8d48-1e6145d08efd.jpg)
 
 
-**Dobbelt eftermiddagsseminar om ledelse, bæredygtighed og CO2**
+**Dobbelt eftermiddagsseminar om ledelse, bæredygtighed og <pre>CO</pre><sub>2</sub> den 30. juni 2021**
 
 
 Den grønne dagsorden ruller og de seneste år har forståelsen af og engagementet omkring bæredygtighed udviklet sig. 
@@ -18,12 +18,12 @@ Programmet byder på en generel introduktion til bæredygtighed og CO2 kortlægn
 
 Der bliver også tid til, at I som deltagere kan sparre med hinanden og derigennem blive inspireret til jeres næste skridt. 
 
-Program og yderlig info findes her [2021_Dobbelt fyraftensseminar om bæredygtighed_Final.pdf](https://github.com/FoodEfficiency/FoodEfficiency.github.io/files/6638477/2021_Dobbelt.fyraftensseminar.om.baeredygtighed_Final.pdf)
+Program og yderlig info findes her [2021_Dobbelt fyraftensseminar om bæredygtighed_Final.pdf](https://github.com/FoodEfficiency/FoodEfficiency.github.io/files/6638477/2021_Dobbelt.fyraftensseminar.om.baeredygtighed_Final.pdf#w255)
 
 
 Da tværfaglighed i organisationen er essentiel for arbejdet med bæredygtighed er du meget velkommen til at tage en kollega med, der er plads til 20 deltagere og under hensyn til seneste Covid-19 retningslinjer.
 
-Tilmelding senest den 28. juni ved at sende en e-mail til info@foodefficiency.eu
+Tilmelding senest den 28. juni ved at sende en e-mail til [info@foodefficiency.eu](mailto:info@foodefficiency.eu)
 
 Vi glæder os til at se dig!!
 
