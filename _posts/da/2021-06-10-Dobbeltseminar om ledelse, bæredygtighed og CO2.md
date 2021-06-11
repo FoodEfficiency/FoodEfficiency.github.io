@@ -9,7 +9,7 @@ Den grønne dagsorden ruller og de seneste år har forståelsen af og engagement
 
 Det stiller nye og foranderlige krav til industrien, om at efterleve omverdens krav og forventninger til bæredygtighed. Det er i dag forventet at virksomheder kender sine klima og miljøaftryk samt arbejder med øget fokus på bæredygtighed og samfundsansvar. 
 
-**I samarbejde med EnergySolution inviterer vi på eftermiddagsseminar om ledelse, bæredygtighed og CO2 onsdag den 30. juni kl 15 - 17:30.**
+**I samarbejde med EnergySolution inviterer vi på eftermiddagsseminar om ledelse, bæredygtighed og CO2 onsdag den 30. juni kl 15 - 17:30 på VBI Parken i Horsens**
 
 ![CSR and ISO  copy](https://user-images.githubusercontent.com/75361000/121691744-a1653800-cac7-11eb-973f-cf71a7194649.JPG)
 
