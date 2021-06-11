@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "Dobbeltseminar om ledelse, bæredygtighed og CO2"
@@ -22,7 +23,8 @@ Programmet byder på en generel introduktion til bæredygtighed og CO2 kortlægn
 
 Der bliver også tid til, at I som deltagere kan sparre med hinanden og derigennem blive inspireret til jeres næste skridt. 
 
-Program og yderlig info findes her xxxx
+Program og yderlig info findes her [2021_Dobbelt fyraftensseminar om bæredygtighed_Final.pdf](https://github.com/FoodEfficiency/FoodEfficiency.github.io/files/6638477/2021_Dobbelt.fyraftensseminar.om.baeredygtighed_Final.pdf)
+
 
 Da tværfaglighed i organisationen er essentiel for arbejdet med bæredygtighed er du meget velkommen til at tage en kollega med. 
 
