@@ -6,7 +6,7 @@ tags: foodefficiency
 ref: dobbelt_eftermiddagsseminar
 ---
 
-<img width="234" alt="EnergySolution" src="https://user-images.githubusercontent.com/75361000/121689008-69a8c100-cac4-11eb-8b13-e30c8815a27a.png">. ![Logo som](https://user-images.githubusercontent.com/75361000/121689065-775e4680-cac4-11eb-8d48-1e6145d08efd.jpg)
+<img width="234" alt="EnergySolution" src="https://user-images.githubusercontent.com/75361000/121689008-69a8c100-cac4-11eb-8b13-e30c8815a27a.png">  ![Logo som](https://user-images.githubusercontent.com/75361000/121689065-775e4680-cac4-11eb-8d48-1e6145d08efd.jpg)
 
 
 **Dobbelt eftermiddagsseminar om ledelse, bæredygtighed og CO2**
