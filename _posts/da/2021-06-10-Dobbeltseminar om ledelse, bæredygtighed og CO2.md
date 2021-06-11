@@ -25,7 +25,7 @@ Der bliver også tid til, at I som deltagere kan sparre med hinanden og derigenn
 Program og yderlig info findes her [2021_Dobbelt fyraftensseminar om bæredygtighed_Final.pdf](https://github.com/FoodEfficiency/FoodEfficiency.github.io/files/6638477/2021_Dobbelt.fyraftensseminar.om.baeredygtighed_Final.pdf)
 
 
-Da tværfaglighed i organisationen er essentiel for arbejdet med bæredygtighed er du meget velkommen til at tage en kollega med. 
+Da tværfaglighed i organisationen er essentiel for arbejdet med bæredygtighed er du meget velkommen til at tage en kollega med, der er plads til 20 deltagere og under hensyn til seneste Covid-19 retningslinjer.
 
 Tilmelding senest den 28. juni ved at sende en e-mail til info@foodefficiency.eu
 
