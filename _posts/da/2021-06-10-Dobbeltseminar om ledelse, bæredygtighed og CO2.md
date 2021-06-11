@@ -11,7 +11,8 @@ Det stiller nye og foranderlige krav til industrien, om at efterleve omverdens k
 
 **I samarbejde med EnergySolution inviterer vi på eftermiddagsseminar om ledelse, bæredygtighed og CO2 onsdag den 30. juni kl 15 - 17:30.**
 
-![CSR and ISO ](https://user-images.githubusercontent.com/75361000/121691526-62cf7d80-cac7-11eb-9356-aeed5b9deee1.JPG)
+![CSR and ISO  copy](https://user-images.githubusercontent.com/75361000/121691744-a1653800-cac7-11eb-973f-cf71a7194649.JPG)
+
 
 Programmet byder på en generel introduktion til bæredygtighed og CO2 kortlægning med eksempler på hvordan man kan bruge etablerede ledelsessystemer, og de metoder vi kender herfra, til at understøtte arbejdet med bæredygtighedsmålene. 
 
