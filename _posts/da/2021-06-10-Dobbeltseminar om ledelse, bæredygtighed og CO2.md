@@ -16,9 +16,11 @@ Den grønne dagsorden ruller og de seneste år har forståelsen af og engagement
 
 Det stiller nye og foranderlige krav til industrien, om at efterleve omverdens krav og forventninger til bæredygtighed. Det er i dag forventet at virksomheder kender sine klima og miljøaftryk samt arbejder med øget fokus på bæredygtighed og samfundsansvar. 
 
+
 **I samarbejde med EnergySolution inviterer vi på eftermiddagsseminar om ledelse, bæredygtighed og CO2 onsdag den 30. juni kl 15 - 17:30 på VBI Parken i Horsens**
 
 ![CSR and ISO  copy](https://user-images.githubusercontent.com/75361000/121691744-a1653800-cac7-11eb-973f-cf71a7194649.JPG#pull-right#w255)
+
 
 
 Programmet byder på en generel introduktion til bæredygtighed og CO2 kortlægning med eksempler på hvordan man kan bruge etablerede ledelsessystemer, og de metoder vi kender herfra, til at understøtte arbejdet med bæredygtighedsmålene. 
@@ -29,6 +31,7 @@ Program og yderlig info findes her [2021_Dobbelt fyraftensseminar om bæredygtig
 
 
 Da tværfaglighed i organisationen er essentiel for arbejdet med bæredygtighed er du meget velkommen til at tage en kollega med, der er plads til 20 deltagere og under hensyn til seneste Covid-19 retningslinjer.
+
 
 Tilmelding senest den 28. juni ved at sende en e-mail til [info@foodefficiency.eu](mailto:info@foodefficiency.eu?subject=Tilmelding til eftermiddaggsseminar 30 juni&body=Hej, Jeg vil gerne tilmelde mig/os til fyraftensseminar om ledelse og bæredygtighed den 30. juni 2021 i VBI Park, Horsens.)
 
