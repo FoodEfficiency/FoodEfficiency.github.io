@@ -35,6 +35,8 @@ Da tværfaglighed i organisationen er essentiel for arbejdet med bæredygtighed 
 
 Tilmelding senest den 28. juni ved at sende en e-mail til [info@foodefficiency.eu](mailto:info@foodefficiency.eu?subject=Tilmelding til eftermiddaggsseminar 30 juni&body=Hej, Jeg vil gerne tilmelde mig/os til fyraftensseminar om ledelse og bæredygtighed den 30. juni 2021 i VBI Park, Horsens.)
 
+Deltagelse er gratis, men der opkræves gebyr på 450kr for udeblivelse.
+
 Vi glæder os til at se dig!!
 
 
