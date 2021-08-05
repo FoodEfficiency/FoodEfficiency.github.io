@@ -28,5 +28,5 @@ Ser vi fremad kommer efteråret til at byde på en ny webinar-række om bæredyg
 
 Webinarene bliver af 30-40min varighed med max. 12 deltagere, således at der er mulighed for spørgsmål og dialog undervejs.
 
-Webinarene vil blive annonceret her på hjemmesiden og på LinkedIn – kontakt os allerede nu hvis du er interesseret I at deltage. 
+Webinarene vil blive annonceret her på hjemmesiden og på LinkedIn – kontakt os allerede nu hvis du er interesseret i at deltage. 
 
