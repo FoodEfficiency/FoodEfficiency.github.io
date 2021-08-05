@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "Sommerens recalls og efterrårets events"
@@ -7,6 +8,8 @@ ref: recalls
 ---
 
 Efter en fantastisk sommer I Danmark starter FoodEfficiency op på efterårets aktiviteter, nu fra kontorfællesskabet The Penthouse som ligger central i Horsens, blot få minutters gang fra stationen. 
+
+<img width="358" alt="New Location" src="https://user-images.githubusercontent.com/75361000/128346711-13f8f9a7-3097-4a6d-a2f1-8f1a4443647e.png">
 
 Ud over sommersol og is har juli budt på en række af tilbagekaldelser af både fødevareingredienser og færdigvarer, herunder is og desserter. 
 
