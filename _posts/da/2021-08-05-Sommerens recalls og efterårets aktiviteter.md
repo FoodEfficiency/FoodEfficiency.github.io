@@ -6,7 +6,7 @@ tags: foodefficiency
 ref: recalls
 ---
 
-<img width="179" alt="New Location copy" src="https://user-images.githubusercontent.com/75361000/128473618-c82e7ecd-ef04-4e27-a3ae-e06001a70102.png#pull-left">
+<img width="90" alt="New Location copy" src="https://user-images.githubusercontent.com/75361000/128473618-c82e7ecd-ef04-4e27-a3ae-e06001a70102.png#pull-left">
 Efter en fantastisk sommer I Danmark starter FoodEfficiency op på efterårets aktiviteter, nu fra kontorfællesskabet The Penthouse som ligger central i Horsens, blot få minutters gang fra stationen. 
 
 Ud over sommersol og is har juli budt på en række af tilbagekaldelser af både fødevareingredienser og færdigvarer, herunder is og desserter. 
