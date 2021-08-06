@@ -6,8 +6,8 @@ tags: foodefficiency
 ref: recalls
 ---
 
-Efter en fantastisk sommer I Danmark starter FoodEfficiency op på efterårets aktiviteter, nu fra kontorfællesskabet The Penthouse som ligger central i Horsens, blot få minutters gang fra stationen. 
 <img width="179" alt="New Location copy" src="https://user-images.githubusercontent.com/75361000/128473618-c82e7ecd-ef04-4e27-a3ae-e06001a70102.png#pull-right">
+Efter en fantastisk sommer I Danmark starter FoodEfficiency op på efterårets aktiviteter, nu fra kontorfællesskabet The Penthouse som ligger central i Horsens, blot få minutters gang fra stationen. 
 
 Ud over sommersol og is har juli budt på en række af tilbagekaldelser af både fødevareingredienser og færdigvarer, herunder is og desserter. 
 
@@ -15,9 +15,9 @@ Igen er det ethylenoxid som der har været årsagen hertil – nu også påvist 
 
 Ethylenoxid har været brugt til gasning / sterilisation af bl.a. krydderier, frø og bælgfrugter for at forbygge problemer med Salmonella, og begrænsede restmængder heraf er tilladt i USA men ikke i EU. 
 
+<img width="166" alt="Ice cream recall" src="https://user-images.githubusercontent.com/75361000/128315846-be0054ff-aca2-4726-94f7-8e57c90794fb.png#pull-right">
 Vi så de første tilbagekaldelser af produkter med ethylenoxid i sensommeren 2020 – dengang var der primært tale om sesamfrø og mange tilbagekaldelser heraf såvel på europæisk plan og nationalt plan. 
 Sidenhen har analyser vist at problemet er mere omfattende, og alene i Danmark er vi nu oppe på 42 produkttilbagekaldelser grundet ethylenoxid i færdigvarer og omhandler så forskellige produkter som sesam, tea, mangochutney, karrypulver og seneste is. 
-<img width="166" alt="Ice cream recall" src="https://user-images.githubusercontent.com/75361000/128315846-be0054ff-aca2-4726-94f7-8e57c90794fb.png">
 
 Igen er det vigtigt at såvel importører og producenter af fødevarer, samt ingredienser hertil, til enhver tid holder sig opdateret med seneste tilbagekaldelser fra det Europæiske RASFF-system og disse tilbagekaldelser indgår i overvågningsprogram samt opdatering af risikovurderinger. 
 
