@@ -3,7 +3,8 @@ title: Test tilmeldingsformular
 ref: tilmelding
 ---
 
-# <span id="subject">test-tilmelding til Gaa-hjem-møde</span>
+# Test-tilmelding til Gaa-hjem-møde
+{: .subject}
 
 ...(fra tidligere event side)...
 FoodEfficiency afholder jævnligt gratis gå-hjem-møder og webinars for små og mellemstore virksomheder under temaet **Få bæredygtighed ned på jorden og ind i hverdagen**.
