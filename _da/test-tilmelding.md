@@ -6,7 +6,7 @@ ref: tilmelding
 # <span id="subject">test-tilmelding til Gaa-hjem-møde</span>
 
 ...(fra tidligere event side)...
-FoodEfficiency afholder jævnligt gratis gå-hjem-møder og webinars for små og mellemstore virksomheder under temaet er **Få bæredygtighed ned på jorden og ind i hverdagen**.  
+FoodEfficiency afholder jævnligt gratis gå-hjem-møder og webinars for små og mellemstore virksomheder under temaet **Få bæredygtighed ned på jorden og ind i hverdagen**.
 
 Møderne afholdes i de udviklingsparker i Jylland hvor FoodEfficiency har adgang til mødefaciliteter. 
 
@@ -17,7 +17,9 @@ Møderne afholdes i de udviklingsparker i Jylland hvor FoodEfficiency har adgang
 
 Alle møderne afholdes kl 15:00-16:30.
 
-Møderne er gratis at deltage i og tilmelding sker på [keh@foodefficiency.eu ][3] Ved tilmelding bedes du angive om du ønsker fysisk deltagelse eller via webinar. Grundet ønsket om mulig dialog er deltagerantal begrænse til 12 virksomheder (20 deltager) og max. 5 til fysisk deltagelse. 
+Møderne er gratis at deltage i og tilmelding sker på [keh@foodefficiency.eu ][3] eller via formularen nedenfor.
+Ved tilmelding bedes du angive om du ønsker fysisk deltagelse eller via webinar.
+Grundet ønsket om mulig dialog er deltagerantal begrænse til 12 virksomheder (20 deltager) og max. 5 til fysisk deltagelse. 
 
 ## Tilmeldingsformular
 
@@ -45,6 +47,10 @@ Jeg vil gerne tilmeldes følgende datoer:
           <span>Søndag 26. september 07:00-10:00</span>
       </label>
     </div>
+    <!-- <div class="field message_field">
+      <label class="placeholder-fallback" for="inquiry_message">Besked *</label>
+      <textarea cols="40" id="inquiry_message" name="message" placeholder="Specielle forhold vedr. tilmelding" rows="8"></textarea>
+    </div> -->
     <div class="field">
       <label class="placeholder-fallback" for="inquiry_name">Navn *</label>
       <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
@@ -118,3 +124,5 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
 });
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+
+[3]: mailto:keh@foodefficiency.eu?subject=Gå-hjem møder "keh@foodefficiency.eu"
