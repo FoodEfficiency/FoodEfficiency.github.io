@@ -26,7 +26,7 @@ Grundet ønsket om mulig dialog er deltagerantal begrænse til 12 virksomheder (
 Jeg vil gerne tilmeldes følgende datoer:
 
 <div class="contact-inner">
-<div class="inquiries pull-left">
+<div class="inquiries">
   <form accept-charset="UTF-8" class="new_inquiry" id="new_inquiry" method="post" data-name="Contact form">
     <div style="margin:0;padding:0;display:inline">
       <input id="locale" name="locale" type="hidden" value="da">
@@ -65,7 +65,7 @@ Jeg vil gerne tilmeldes følgende datoer:
       <input class="text phone" id="inquiry_phone" name="phone" placeholder="" size="30" type="phone">
     </div>
     <div class="actions">
-      <input class="btn btn-success" id="contact_submit" name="commit" type="submit" value="Send besked">
+      <input class="btn btn-success" id="contact_submit" name="commit" type="submit" value="Send tilmelding">
     </div>
   </form>
 </div>
@@ -73,23 +73,10 @@ Jeg vil gerne tilmeldes følgende datoer:
 <script type="text/javascript">
 function clearInquiryForm() {
   // document.getElementById("inquiry_message").value = "";
-  // document.getElementById("inquiry_name").value = "";
-  // document.getElementById("inquiry_email").value = "";
-  // document.getElementById("inquiry_phone").value = "";
+  document.getElementById("inquiry_name").value = "";
+  document.getElementById("inquiry_email").value = "";
+  document.getElementById("inquiry_phone").value = "";
 }
-// function getChechedCheckboxes() {
-//   var checkboxes = document.getElementsByName(chkboxName);
-//   var checkboxesChecked = [];
-//   // loop over them all
-//   for (var i=0; i<checkboxes.length; i++) {
-//      // And stick the checked ones onto an array...
-//      if (checkboxes[i].checked) {
-//         checkboxesChecked.push(checkboxes[i]);
-//      }
-//   }
-//   // Return the array if it is non-empty, or null
-//   return checkboxesChecked.length > 0 ? checkboxesChecked : null;
-// }
 
 // ContactUs API
 document.getElementById("contact_submit").addEventListener("click", function(event){
@@ -114,7 +101,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     'Access-Control-Allow-Credentials': true,
   }
   axios.post(url, data, headers).then(res => {
-    alert('Mange tak for din henvendelse.  Vi vil vende tilbage snarest muligt.');
+    alert('Mange tak for din tilmelding.  Vi vil vende tilbage snarest muligt.');
     clearInquiryForm();
   }).catch(err => {
     console.log(err)
