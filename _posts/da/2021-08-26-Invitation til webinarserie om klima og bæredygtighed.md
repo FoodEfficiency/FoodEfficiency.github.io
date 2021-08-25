@@ -28,7 +28,99 @@ Webinarene er gratis og har hver en varighed af ca. 30 minutter med efterfølgen
 
 Tilmelding sker via formularen nedenfor.
 
-Fredag den 24/9 kl 9:30
-Fredag den 1/10 kl 9:30
-Fredag den 8/10 kl 9:30
-Fredag den 15/10 kl 9:30
+### Webinarserie om klima og bæredygtighed
+{: #subject}
+
+Jeg vil gerne tilmeldes følgende datoer:
+
+<div class="contact-inner">
+<div class="inquiries">
+  <form accept-charset="UTF-8" class="new_inquiry" id="new_inquiry" method="post" data-name="Contact form">
+    <div style="margin:0;padding:0;display:inline">
+      <input id="locale" name="locale" type="hidden" value="da">
+      <input id="utf8" name="utf8" type="hidden" value="✓">
+      <input id="authenticity_token" name="authenticity_token" type="hidden" value="8vr2lMQljUu/67VhB2GS5pXRZubfGknz0sIweGYatWU=">
+    </div>
+
+    <div>
+      <label class="checkbox field">
+          <input type="checkbox" name="24/09-2021" checked />
+          <span>Fredag den 24/9 kl 9:30</span>
+      </label>
+      <label class="checkbox field">
+          <input type="checkbox" name="01/10-2021" checked />
+          <span>Fredag den 1/10 kl 9:30</span>
+      </label>
+      <label class="checkbox field">
+          <input type="checkbox" name="08/10-2021" checked />
+          <span>Fredag den 8/10 kl 9:30</span>
+      </label>
+      <label class="checkbox field">
+          <input type="checkbox" name="15/10-2021" checked />
+          <span>Fredag den 15/10 kl 9:30</span>
+      </label>
+    </div>
+    <!-- <div class="field message_field">
+      <label class="placeholder-fallback" for="inquiry_message">Besked *</label>
+      <textarea cols="40" id="inquiry_message" name="message" placeholder="Specielle forhold vedr. tilmelding" rows="8"></textarea>
+    </div> -->
+    <div class="field">
+      <label class="placeholder-fallback" for="inquiry_name">Navn *</label>
+      <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
+    </div>
+    <input id="lastname" class="offscreen" name="lastname" tabindex="-1" type="text" value="">
+    <div class="field">
+      <label class="placeholder-fallback" for="inquiry_email">Email *</label>
+      <input class="text email" id="inquiry_email" name="email" placeholder="" required="required" size="30" type="email">
+    </div>
+    <div class="field">
+      <label class="placeholder-fallback" for="inquiry_phone">Telefon</label>
+      <input class="text phone" id="inquiry_phone" name="phone" placeholder="" size="30" type="phone">
+    </div>
+    <div class="actions">
+      <input class="btn btn-success" id="contact_submit" name="commit" type="submit" value="Send tilmelding">
+    </div>
+  </form>
+</div>
+</div>
+<script type="text/javascript">
+function clearInquiryForm() {
+  // document.getElementById("inquiry_message").value = "";
+  document.getElementById("inquiry_name").value = "";
+  document.getElementById("inquiry_email").value = "";
+  document.getElementById("inquiry_phone").value = "";
+}
+
+// ContactUs API
+document.getElementById("contact_submit").addEventListener("click", function(event){
+  event.preventDefault()
+
+  const locale = document.getElementById("locale").value;
+  const checkedBoxes = document.querySelectorAll('input[type=checkbox]:checked');
+  var message = "Tilmelding til følgende events:\n";
+  checkedBoxes
+    .forEach((input) => {
+      message = message + " *  " + input.name + "\n";
+    });
+  const subject = document.getElementById("subject").innerText;
+  const name = document.getElementById("inquiry_name").value;
+  const lastname = document.getElementById("lastname").value;
+  const email = document.getElementById("inquiry_email").value; 
+  const phone = document.getElementById("inquiry_phone").value; 
+  const data = { locale, message, subject, name, lastname, email, phone }
+  const url = 'https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send';
+  const headers = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Credentials': true,
+  }
+  axios.post(url, data, headers).then(res => {
+    alert('Mange tak for din tilmelding.  Vi vil vende tilbage snarest muligt.');
+    clearInquiryForm();
+  }).catch(err => {
+    console.log(err)
+    alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon");
+  })
+  return true;
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
