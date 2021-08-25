@@ -47,19 +47,19 @@ Jeg vil gerne tilmeldes følgende datoer:
     <div>
       <label class="checkbox field">
           <input type="checkbox" name="24/09-2021" checked />
-          <span>Fredag den 24/9 kl 9:30</span>
+          <span>Fredag den 24/9 kl 9:30 - Introduktion til bæredygtighed og værdiskabelse</span>
       </label>
       <label class="checkbox field">
           <input type="checkbox" name="01/10-2021" checked />
-          <span>Fredag den 1/10 kl 9:30</span>
+          <span>Fredag den 1/10 kl 9:30 - Klima og bæredygtighed – direkte og indirekte påvirkninger</span>
       </label>
       <label class="checkbox field">
           <input type="checkbox" name="08/10-2021" checked />
-          <span>Fredag den 8/10 kl 9:30</span>
+          <span>Fredag den 8/10 kl 9:30 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
       </label>
       <label class="checkbox field">
           <input type="checkbox" name="15/10-2021" checked />
-          <span>Fredag den 15/10 kl 9:30</span>
+          <span>Fredag den 15/10 kl 9:30 - Kommunikation af bæredygtighed (intern og eksterne)</span>
       </label>
     </div>
     <!-- <div class="field message_field">
@@ -120,7 +120,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     clearInquiryForm();
   }).catch(err => {
     console.log(err)
-    alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon");
+    alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon samt om du har netforbindelse.");
   })
   return true;
 });
