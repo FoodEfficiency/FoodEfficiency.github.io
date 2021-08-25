@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sommerens recalls og efterrårets events"
-date:   2021-08-05 09:11:00 +0100
+date:   2021-07-31 09:11:00 +0100
 tags: foodefficiency
 ref: recalls
 ---
