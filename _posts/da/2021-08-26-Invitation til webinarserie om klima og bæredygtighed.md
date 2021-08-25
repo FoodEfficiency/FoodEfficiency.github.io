@@ -12,7 +12,8 @@ Klima og den grønne dagsorden er ikke blot en udfordring men også en mulighed 
 
 Det stiller nye og foranderlige krav til virksomheder om at efterleve omverdens krav samt forventninger til bæredygtighed. Samtidig forventer kunderne at virksomheden arbejder med øget fokus på grøn omstilling, bæredygtighed og samfundsansvar.
 
-De færreste virksomheder starter dog på bar bund men har allerede implementeret initiativer og processer som understøtter FN’s verdensmål. Dette med udgangspunkt i lovkrav, krav fra ledelsessystemer samt teknologi og best practice. Det er derfor vigtigt at bygge videre på det eksisterende fundament og sikre forankring og værdiskabelse på tværs af organisationen, under hensyntagen til bæredygtighedsprincipperne.  
+De færreste virksomheder starter dog på bar bund men har allerede implementeret initiativer og processer som understøtter FN’s verdensmål. Dette med udgangspunkt i lovkrav, krav fra ledelsessystemer samt teknologi og best practice. 
+Det er derfor vigtigt at bygge videre på det eksisterende fundament og sikre forankring og værdiskabelse på tværs af organisationen, under hensyntagen til bæredygtighedsprincipperne.  
 FoodEfficiency kan hjælpe din virksomhed med kortlægning og identifikation af fokusområder der understøtter klimaet og bæredygtig udvikling på tværs af organisationen.
 
 Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klogere på bæredygtighed, under følgende overskrifter;
@@ -21,6 +22,7 @@ Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klo
 2.	Klima og bæredygtighed – direkte og indirekte påvirkninger (scope 1, 2 og 3)
 3.	Bæredygtighedsfokus med udgangspunkt i dansk lovgivning og ledelsessystemer 
 4.	Kommunikation af bæredygtighed (intern og eksterne)
+
 
 Webinarene er rettet mod ejere såvel som produktions-, kvalitets- og salgschefer i små og mellemstore virksomheder, der interesserer sig hvordan bæredygtighed kan være med til skabe værdi for organisationen.
 
