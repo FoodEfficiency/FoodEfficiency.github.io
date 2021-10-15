@@ -46,7 +46,7 @@ Jeg vil gerne tilmeldes følgende datoer:
       <label class="checkbox field">
           <input type="checkbox" name="12/11-2021" checked />
           <span>Fredag den 12/11 kl10:00 - Introduktion til bæredygtighed og værdiskabelse</span>
-      </label>
+      </label>      
       <label class="checkbox field">
           <input type="checkbox" name="19/1-2021" checked />
           <span>Fredag den 19/11 kl10:00 - Klima og bæredygtighed – direkte og indirekte påvirkninger</span>
