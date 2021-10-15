@@ -1,5 +1,12 @@
-<img width="1424" alt="Screenshot 2021-10-15 at 07 59 06" src="https://user-images.githubusercontent.com/75361000/137440046-f11da098-5d02-40c5-8ccd-7fe4b6fe4b64.png">
+---
+layout: post
+title:  "Invitation til webinarserie om klima og bæredygtighed"
+date:   2021-08-26 09:11:00 +0100
+tags: foodefficiency
+ref: webinar
+---
 
+<img width="1424" alt="Screenshot 2021-10-15 at 07 59 06" src="https://user-images.githubusercontent.com/75361000/137440046-f11da098-5d02-40c5-8ccd-7fe4b6fe4b64.png">
 
 Klima og den grønne dagsorden er ikke blot en udfordring men også en mulighed for at din virksomhed eller organisation kan differentiere sig på det lokale såvel som globale marked.
 
