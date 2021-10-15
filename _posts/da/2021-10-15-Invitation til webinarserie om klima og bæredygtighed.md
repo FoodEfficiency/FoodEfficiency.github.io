@@ -38,18 +38,22 @@ Jeg vil gerne tilmeldes følgende datoer:
       <input type="checkbox" name="12/11-2021" checked />
       <span>Fredag den 12/11 kl10:00 - Introduktion til bæredygtighed og værdiskabelse</span>
   </label>
+  
   <label class="checkbox field">
       <input type="checkbox" name="19/1-2021" checked />
       <span>Fredag den 19/11 kl10:00 - Klima og bæredygtighed – direkte og indirekte påvirkninger</span>
   </label>
+  
   <label class="checkbox field">
       <input type="checkbox" name="26/11-2021" checked />
       <span>Fredag den 26/11 kl 10:00 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
   </label>
+  
   <label class="checkbox field">
       <input type="checkbox" name="3/11-2021" checked />
       <span>Fredag den 3/12 kl 10:00 - Kommunikation af bæredygtighed (intern og eksterne)</span>
   </label>
+  
 </div>
 <!-- <div class="field message_field">
   <label class="placeholder-fallback" for="inquiry_message">Besked *</label>
@@ -59,15 +63,18 @@ Jeg vil gerne tilmeldes følgende datoer:
   <label class="placeholder-fallback" for="inquiry_name">Navn *</label>
   <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
 </div>
+
 <input id="lastname" class="offscreen" name="lastname" tabindex="-1" type="text" value="">
 <div class="field">
   <label class="placeholder-fallback" for="inquiry_email">Email *</label>
   <input class="text email" id="inquiry_email" name="email" placeholder="" required="required" size="30" type="email">
 </div>
+
 <div class="field">
   <label class="placeholder-fallback" for="inquiry_phone">Telefon</label>
   <input class="text phone" id="inquiry_phone" name="phone" placeholder="" size="30" type="phone">
 </div>
+
 <div class="actions">
   <input class="btn btn-success" id="contact_submit" name="commit" type="submit" value="Send tilmelding">
 </div>
