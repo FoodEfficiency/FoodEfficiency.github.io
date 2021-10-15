@@ -10,10 +10,10 @@ FoodEfficiency kan hjælpe din virksomhed med kortlægning og identifikation af 
 
 Vi udbyder derfor en serie af fire webinars, hvor Jeres virksomhed kan blive klogere på bæredygtighed, under følgende overskrifter;
 
-    Introduktion til bæredygtighed og værdiskabelse
-    Klima og bæredygtighed – direkte og indirekte påvirkninger (scope 1, 2 og 3)
-    Bæredygtighedsfokus med udgangspunkt i dansk lovgivning og ledelsessystemer
-    Kommunikation af bæredygtighed (intern og eksterne)
+ 1. Introduktion til bæredygtighed og værdiskabelse
+ 2. Klima og bæredygtighed – direkte og indirekte påvirkninger (scope 1, 2 og 3)
+ 3. Bæredygtighedsfokus med udgangspunkt i dansk lovgivning og ledelsessystemer
+ 4. Kommunikation af bæredygtighed (intern og eksterne)
 
 Webinarene er rettet mod ejere såvel som produktions-, kvalitets- og salgschefer i små og mellemstore virksomheder, der interesserer sig hvordan bæredygtighed kan være med til skabe værdi for organisationen.
 
