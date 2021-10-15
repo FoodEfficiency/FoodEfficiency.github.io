@@ -48,7 +48,7 @@ Jeg vil gerne tilmeldes følgende datoer:
           <span>Fredag den 12/11 kl10:00 - Introduktion til bæredygtighed og værdiskabelse</span>
       </label>      
       <label class="checkbox field">
-          <input type="checkbox" name="19/1-2021" checked />
+          <input type="checkbox" name="19/11-2021" checked />
           <span>Fredag den 19/11 kl10:00 - Klima og bæredygtighed – direkte og indirekte påvirkninger</span>
       </label>
       <label class="checkbox field">
@@ -56,7 +56,7 @@ Jeg vil gerne tilmeldes følgende datoer:
           <span>Fredag den 26/11 kl 10:00 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
       </label>
       <label class="checkbox field">
-          <input type="checkbox" name="3/11-2021" checked />
+          <input type="checkbox" name="03/12-2021" checked />
           <span>Fredag den 3/12 kl 10:00 - Kommunikation af bæredygtighed (intern og eksterne)</span>
       </label>
     </div>
