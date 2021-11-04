@@ -100,16 +100,15 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   const locale = document.getElementById("locale").value;
   const checkedBoxes = document.querySelectorAll('input[type=checkbox]:checked');
   var message = "Tilmelding til følgende events:\n";
-  checkedBoxes
-    .forEach((input) => {
+  checkedBoxes.forEach(input => {
       message = message + " *  " + input.name + "\n";
     });
-  const subject = document.getElementById("subject").innerText;
   const name = document.getElementById("inquiry_name").value;
   const lastname = document.getElementById("lastname").value;
   const email = document.getElementById("inquiry_email").value; 
   const phone = document.getElementById("inquiry_phone").value; 
-  const data = { locale, message, subject, name, lastname, email, phone }
+  const subject = "[FE] " + document.getElementById("subject").innerText;
+  const data = { locale, subject, message, name, lastname, email, phone }
   const url = 'https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send';
   const headers = {
     'Access-Control-Allow-Origin': '*',
@@ -120,9 +119,11 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
     clearInquiryForm();
   }).catch(err => {
     console.log(err)
-    alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon samt om du har netforbindelse.");
+    alert("Der skete en fejl. Check om du har udfyldt felterne: besked, navn, email og telefon samt om du har netforbindelse.\n\nFejltekst: " + err);
   })
   return true;
 });
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+
+Opstår der problemer med tilmelding så brug venligst vores kontaktformular eller send en email til info@foodefficiency.eu
