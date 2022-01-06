@@ -70,7 +70,7 @@ Jeg vil gerne tilmeldes følgende datoer:
       <label class="placeholder-fallback" for="inquiry_name">Navn *</label>
       <input class="text" id="inquiry_name" name="name" placeholder="" required="required" size="30" type="text">
     </div>
-    <input id="lastname" class="offscreen" name="lastname" tabindex="-1" type="text" value="">
+    <input id="inquiry_info2" class="offscreen" name="inquiry_info2" tabindex="-1" type="text" value="">
     <div class="field">
       <label class="placeholder-fallback" for="inquiry_email">Email *</label>
       <input class="text email" id="inquiry_email" name="email" placeholder="" required="required" size="30" type="email">
@@ -104,11 +104,11 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
       message = message + " *  " + input.name + "\n";
     });
   const name = document.getElementById("inquiry_name").value;
-  const lastname = document.getElementById("lastname").value;
+  const info2 = document.getElementById("inquiry_info2").value;
   const email = document.getElementById("inquiry_email").value; 
   const phone = document.getElementById("inquiry_phone").value; 
   const subject = "[FE] " + document.getElementById("subject").innerText;
-  const data = { locale, subject, message, name, lastname, email, phone }
+  const data = { locale, subject, message, name, info2, email, phone }
   const url = 'https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send';
   const headers = {
     'Access-Control-Allow-Origin': '*',
