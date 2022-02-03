@@ -19,6 +19,7 @@ ref: links
 * [Cirkulær Økonomi - Generel Introduktion][27]{:target="_blank"}
 * [Cirkulær Økonomi i Fødevarekæden][28]{:target="_blank"}
 * [ESG Taksonomi] [69]{:target="_blank"}
+* [Emissionsfaktorer for kølegasser][70]{:target="_blank"}
 
 ### Mejeri og Fødevareindustri
 
@@ -130,3 +131,4 @@ ref: links
 [67]: https://www.ifs-certification.com/index.php/en/?SID=204a0cb9a0fc3e8bfecf4f8de4f93d98&page=home&content=pruefinstitute_detail&desc=institutes&language=english&id=362 "https://www.ifs-certification.com/index.php/en/?SID=204a0cb9a0fc3e8bfecf4f8de4f93d98&page=home&content=pruefinstitute_detail&desc=institutes&language=english&id=362"
 [68]: https://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
 [69]: https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi  "https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi"
+[70]: https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants "https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants"
