@@ -20,6 +20,7 @@ ref: links
 * [Cirkulær Økonomi i Fødevarekæden][28]{:target="_blank"}
 * [ESG Taksonomi] [69]{:target="_blank"}
 * [Emissionsfaktorer for kølegasser][70]{:target="_blank"}
+* [Klimakompasset CO2 Bergning] [71]{:target="_blank"}
 
 ### Mejeri og Fødevareindustri
 
@@ -132,3 +133,4 @@ ref: links
 [68]: https://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
 [69]: https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi  "https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi"
 [70]: https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants "https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants"
+[71]: https://klimakompasset.dk/klimakompasset/ "https://klimakompasset.dk/klimakompasset/"
