@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   environmental and CSR related tasks within the food manufacturing industry
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://foodefficiency.eu" # the base hostname & protocol for your site, e.g. http://example.com
- SEO Tags
+# SEO Tags
 # See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 author:
   image: /assets/images/00%20FoodEfficiency%20StartUp.png
@@ -81,6 +81,12 @@ languages: ["da", "en"]
 show_excerpts: true
 sidebar_posts_date_format: "%b %Y"
 sidebar_posts_limit: 3
+
+manifest_name: FoodEfficiency v/Karin Hansen
+manifest_short_name: FoodEfficiency # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: en
+manifest_background_color: white
+manifest_display: standalone
 
 # New directory structure
 # collections_dir: ""
