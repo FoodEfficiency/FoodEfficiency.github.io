@@ -20,6 +20,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   environmental and CSR related tasks within the food manufacturing industry
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://foodefficiency.eu" # the base hostname & protocol for your site, e.g. http://example.com
+ SEO Tags
+# See: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+author:
+  image: /assets/images/00%20FoodEfficiency%20StartUp.png
+  url: https://www.linkedin.com/in/karin-hansen-a14446
+# logo: /apple-touch-icon.png
+social:
+  name: Karin E. Hansen
+  links:
+    - https://www.linkedin.com/in/karin-hansen-a14446
+tagline: Din sparrings- og samarbejdspartner for kvalitets-, miljø og bæredygtighedsopgaver.
+# google_site_verification:
+# webmaster_verifications:
+#   ...
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
