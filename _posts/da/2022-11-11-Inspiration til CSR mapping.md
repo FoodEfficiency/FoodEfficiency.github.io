@@ -118,7 +118,7 @@ document.getElementById("contact_submit").addEventListener("click", function(eve
   const info2 = document.getElementById("inquiry_info2").value;
   const email = document.getElementById("inquiry_email").value; 
   const phone = document.getElementById("inquiry_phone").value; 
-  const subject = "[ESG] " + document.getElementById("subject").innerText;
+  const subject = "[FE] " + document.getElementById("subject").innerText;
   const data = { locale, subject, message, name, info2, email, phone }
   const url = 'https://fb65cne4o6.execute-api.eu-central-1.amazonaws.com/send';
   const headers = {
