@@ -11,7 +11,7 @@ BRC Food – skærpede krav til food safety culture samt udstyr
 
 I august blev seneste version af BRC Food Safety lanceret – der er tale om revision 9 af den internationale standard om fødevaresikkerhed. 
 
-Min britiske samarbejdspartner John Husband fra To Train har lavet en meget fin oversigt over ændringerne fra version 8 til 9 som jeg har samlet i et dokument. Dokumentet er tilgængeligt her. 
+Min britiske samarbejdspartner John Husband fra To Train har lavet en meget fin oversigt over ændringerne fra version 8 til 9 som jeg har samlet i et dokument. [/assets/publications/2022%20BRC%20Briefing%20note%20%E2%80%93%20BRCGS%20Global%20Standard%20Food%20Safety%20Issue%208%20to%209.pdf](Dokumentet er tilgængeligt her). 
 
 Nogle af de punkter som vil have større betydning for fødevareproducenterne et det skærpede fokus på ”food safety culture” samt på indkøb og vedligehold af udstyr. 
 
