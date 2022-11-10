@@ -2,7 +2,7 @@
 layout: post
 title:  "Når disruption rammer....."
 date:   2022-04-05 09:11:00 +0100
-permalink: news/Når disruption rammer.....
+permalink: news/naar_disruption_rammer
 tags: foodefficiency
 ref: disruption
 ---
