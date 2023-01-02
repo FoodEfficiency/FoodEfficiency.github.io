@@ -24,4 +24,6 @@ Et nyt år venter forude og jeg ønsker hermed alle mine kunder og samarbejdspar
 De bedste hilsner 
 Karin Hansen
 
-![FE|ESG|Broen 2022](/assets/images/FE%7CESG%7CBroen%2022.png)
+![FE%7CESG%7CBroen%2022](/assets/images/FE%7CESG%7CBroen%2022.png)
+
+https://github.com/FoodEfficiency/FoodEfficiency.github.io/blob/main/assets/images/FE%7CESG%7CBroen%202022.png
