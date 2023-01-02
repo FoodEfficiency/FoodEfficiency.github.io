@@ -24,5 +24,5 @@ Et nyt år venter forude og jeg ønsker hermed alle mine kunder og samarbejdspar
 De bedste hilsner 
 Karin Hansen
 
-![FE|ESG|Broen 2022](/assets/images/FE%7CESG%7CBroen%2022.png)
-![jul i horsens](/assets/images/Jul i Horsens 2020.png#w450)
+<img width="120" alt="FE|ESG|Broen 2022" src="https://user-images.githubusercontent.com/75361000/210213421-a02928c7-93ab-46db-bb66-11385b3b13dc.png">
+
