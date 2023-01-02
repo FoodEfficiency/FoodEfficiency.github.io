@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Invitation til webinarserie om klima og bæredygtighed"
+title:  "Invitation til webinarserie om klima og bæredygtighed - Myter og Muligheder"
 date:   2023-01-02 07:11:00 +0100
 permalink: news/invitation-til-webinarserie-om-klima-og-baeredygtighed
 tags: foodefficiency
