@@ -21,8 +21,9 @@ Så et spændende år med megen aktivitet – og derfor var jeg glad for at der 
 
 Et nyt år venter forude og jeg ønsker hermed alle mine kunder og samarbejdspartnere et godt 2023. 
 
-De bedste hilsner 
-Karin Hansen
 
 <img width="120" alt="FE|ESG|Broen 2022" src="https://user-images.githubusercontent.com/75361000/210213421-a02928c7-93ab-46db-bb66-11385b3b13dc.png">
 
+
+De bedste hilsner 
+Karin Hansen
