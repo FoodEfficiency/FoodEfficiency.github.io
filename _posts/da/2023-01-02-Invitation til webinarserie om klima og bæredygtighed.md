@@ -51,20 +51,20 @@ Jeg vil gerne tilmeldes følgende datoer:
 
     <div>
       <label class="checkbox field">
-          <input type="checkbox" name="20/1-2023" checked />
-          <span>Fredag den 20/1 kl 8:30 - Introduktion til bæredygtighed - myter og muligheder</span>
+          <input type="checkbox" name="3/3-2023" checked />
+          <span>Fredag den 3/3 kl 8:30 - Introduktion til bæredygtighed - myter og muligheder</span>
       </label>      
       <label class="checkbox field">
-          <input type="checkbox" name="27/1-2023" checked />
-          <span>Fredag den 27/1 kl 8:30 - Klima og bæredygtighed – direkte og indirekte påvirkninger</span>
+          <input type="checkbox" name="10/3-2023" checked />
+          <span>Fredag den 10/3 kl 8:30 - Klima og bæredygtighed – direkte og indirekte påvirkninger</span>
       </label>
       <label class="checkbox field">
-          <input type="checkbox" name="3/2-2023" checked />
-          <span>Fredag den 3/2 kl 8:30 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
+          <input type="checkbox" name="17/3-2023" checked />
+          <span>Fredag den 17/3 kl 8:30 - Bæredygtighedsfokus med udgangspunkt i lovgivning og ledelsessystemer</span>
       </label>
       <label class="checkbox field">
-          <input type="checkbox" name="10/2-2023" checked />
-          <span>Fredag den 10/2 kl 8:30 - Kommunikation af bæredygtighed (intern og eksterne)</span>
+          <input type="checkbox" name="24/3-2023" checked />
+          <span>Fredag den 24/3 kl 8:30 - Kommunikation af bæredygtighed (intern og eksterne)</span>
       </label>
     </div>
 
