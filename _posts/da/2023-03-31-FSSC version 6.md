@@ -2,7 +2,7 @@
 layout: post
 title:  FSSC version 6.0
 date:   2023-03-31 21:11:00 +0100
-permalink: news/FSSC-version-6.0
+permalink: news/FSSC-version-6_0
 tags: foodefficiency
 ref: FSSC
 ---
