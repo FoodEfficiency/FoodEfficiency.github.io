@@ -7,7 +7,7 @@ tags: foodefficiency
 ref: FSSC
 ---
 
-**FSSC 6.0**
+**Opdateret standard for fødevaresikkerhed - FSSC 6.0**
 <img width="98" alt="Screenshot 2023-04-03 at 10 00 19 copy" src="https://user-images.githubusercontent.com/75361000/229448039-b57b75b0-f06c-4cb9-8557-193a39994474.png">
 
 Den nye FSSC version 6.0 er netop udgivet. 
