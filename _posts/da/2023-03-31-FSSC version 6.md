@@ -16,6 +16,6 @@ Der er kommet mindre justeringer til flere af kategorierne, herunder håndtering
 
 Derudover er det skærpet fokus på bl.a. anprisninger men også mange andre ændringer, som er synliggjort i nedenstående dokument.
 
-Den opdaterede standard inkl. ændringe kan tilgåes fra FSSC organisationens hjemmeside via (dette link)[https://www.fssc.com/wp-content/uploads/2023/03/FSSC-22000-Scheme-Version-6_Main-changes_web-version.pdf]
+Den opdaterede standard inkl. ændringe kan tilgåes fra FSSC organisationens hjemmeside via [dette link](https://www.fssc.com/wp-content/uploads/2023/03/FSSC-22000-Scheme-Version-6_Main-changes_web-version.pdf)
 
 Version 6.0 skal være implementeret indenfor 12 måneder fra udgivelsen og certifikater der udstedes efter 1/4/2024 vil derfor være iht. version 6.0
