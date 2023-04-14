@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Invitation til webinar om EUs nye bæredygtighedsdirektiv - for de virksomheder der IKKE er DIREKTE omfattet af direktivet"
 date:   2023-04-13 07:11:00 +0100
