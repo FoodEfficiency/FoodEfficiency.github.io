@@ -33,6 +33,8 @@ Webinarene er rettet mod virksomhedsejere såvel som økonomi- og salgschefer i 
 
 Deltagelse er gratis og har en varighed af ca 30 minuter samt 15 minuter til debat. Der er plads til max 12  deltagere pr event, og der udbydes tre datoer.
 
+
+
 ### Webinar om EUs nye bæredygtighedsdirektiv og muligheder for virksomhederne
 {: #subject}
 
