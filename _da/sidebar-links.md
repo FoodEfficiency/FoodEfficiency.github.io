@@ -36,6 +36,9 @@ ref: links
 * [Fødevarekontaktmateriale][35]{:target="_blank"}
 * [Produkt tilbagekaldelse iht. FVST krav][36]{:target="_blank"}
 * [Oversvømmelse i fødevarevirksomheder][37]{:target="_blank"}
+* [Drikkevandsanalyser][72]{:target="_blank"}
+* [Tilsætninger][74]{:target="_blank"}
+* [Tilsætninger og mængder EU][73]{:target="_blank"}
 
 ### Fødevaresikkerhed og standarder
 
@@ -93,17 +96,17 @@ ref: links
 [28]: http://circulareconomy.fooddrinkeurope.eu/ "http://circulareconomy.fooddrinkeurope.eu/"
 [29]: https://foedevarestyrelsen.dk/ "https://foedevarestyrelsen.dk/"
 [30]: https://foedevarestyrelsen.dk/kost-og-foedevarer/start-og-drift-af-foedevarevirksomhed/hygiejne-og-indretning "https://foedevarestyrelsen.dk/kost-og-foedevarer/start-og-drift-af-foedevarevirksomhed/hygiejne-og-indretning"
-[31]: https://www.foedevarestyrelsen.dk/Selvbetjening/Guides/Sider/Det-skal-du-vide-om-egenkontrol-i-foedevarevirksomheder.aspx "https://www.foedevarestyrelsen.dk/Selvbetjening/Guides/Sider/Det-skal-du-vide-om-egenkontrol-i-foedevarevirksomheder.aspx"
-[32]: https://www.foedevarestyrelsen.dk/Leksikon/Sider/Desinfektionsmidler-i-f%C3%B8devareindustri-og-landbrug.aspx "https://www.foedevarestyrelsen.dk/Leksikon/Sider/Desinfektionsmidler-i-f%C3%B8devareindustri-og-landbrug.aspx"
-[33]: https://www.foedevarestyrelsen.dk/SiteCollectionDocuments/Kemi%20og%20foedevarekvalitet/Desinfektionsmidler/Positivliste%20til%20hjemmesiden%2022-02-2019.pdf "https://www.foedevarestyrelsen.dk/SiteCollectionDocuments/Kemi%20og%20foedevarekvalitet/Desinfektionsmidler/Positivliste%20til%20hjemmesiden%2022-02-2019.pdf"
+[31]: https://foedevarestyrelsen.dk/kost-og-foedevarer/start-og-drift-af-foedevarevirksomhed/egenkontrol-og-risikoanalyse "https://foedevarestyrelsen.dk/kost-og-foedevarer/start-og-drift-af-foedevarevirksomhed/egenkontrol-og-risikoanalyse"
+[32]: https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/kemiske-stoffer-og-toksiner/biocider-desinfektionsmidler-og-pattedypningsmidler/korrosionsnedsaettende-midler-til-dampkedlerhttps://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/kemiske-stoffer-og-toksiner/biocider-desinfektionsmidler-og-pattedypningsmidler/lister-over-godkendte-produkter "h[ttps://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/kemiske-stoffer-og-toksiner/biocider-desinfektionsmidler-og-pattedypningsmidler/korrosionsnedsaettende-midler-til-dampkedler](https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/kemiske-stoffer-og-toksiner/biocider-desinfektionsmidler-og-pattedypningsmidler/lister-over-godkendte-produkter)"
+[33]: https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/kemiske-stoffer-og-toksiner/biocider-desinfektionsmidler-og-pattedypningsmidler/korrosionsnedsaettende-midler-til-dampkedler "https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/kemiske-stoffer-og-toksiner/biocider-desinfektionsmidler-og-pattedypningsmidler/korrosionsnedsaettende-midler-til-dampkedler"
 [34]: http://info.nsf.org/USDA/categories.html#P1 "http://info.nsf.org/USDA/categories.html#P1"
-[35]: https://www.foedevarestyrelsen.dk/Foedevarer/Fodevarekontaktmaterialer/Sider/default.aspx "https://www.foedevarestyrelsen.dk/Foedevarer/Fodevarekontaktmaterialer/Sider/default.aspx"
-[36]: https://www.foedevarestyrelsen.dk/Selvbetjening/Vejledninger/Tilbagetraekningsvejledningen/Sider/default.aspx "https://www.foedevarestyrelsen.dk/Selvbetjening/Vejledninger/Tilbagetraekningsvejledningen/Sider/default.aspx"
-[37]: https://www.foedevarestyrelsen.dk/Leksikon/Sider/Oversv%C3%B8mmelse-i-f%C3%B8devarevirksomheden.aspx "https://www.foedevarestyrelsen.dk/Leksikon/Sider/Oversv%C3%B8mmelse-i-f%C3%B8devarevirksomheden.aspx"
+[35]: https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/emballage-og-udstyr "https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/emballage-og-udstyr"
+[36]: https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/tilbagetraekning-af-foedevarer "https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/tilbagetraekning-af-foedevarer"
+[37]: https://foedevarestyrelsen.dk/kost-og-foedevarer/start-og-drift-af-foedevarevirksomhed/hygiejne-og-indretning/oversvoemmede-foedevarevirksomheder "https://foedevarestyrelsen.dk/kost-og-foedevarer/start-og-drift-af-foedevarevirksomhed/hygiejne-og-indretning/oversvoemmede-foedevarevirksomheder"
 [38]: http://www.mygfsi.com/ "http://www.mygfsi.com/"
 [39]: https://www.brcgs.com/ "https://www.brcgs.com/"
-[40]: https://www.ifs-certification.com/index.php/en/standards "https://www.ifs-certification.com/index.php/en/standards"
-[41]: http://www.fssc22000.com/documents/home.xml?lang=en "http://www.fssc22000.com/documents/home.xml?lang=en"
+[40]: https://www.ifs-certification.com/en/food-standard "https://www.ifs-certification.com/en/food-standard"
+[41]: https://www.fssc.com/schemes/fssc-22000/ "https://www.fssc.com/schemes/fssc-22000/"
 [42]: http://www.fao.org/fao-who-codexalimentarius/en/ "http://www.fao.org/fao-who-codexalimentarius/en/"
 [43]: http://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/ "http://www.fao.org/fao-who-codexalimentarius/codex-texts/list-standards/en/"
 [44]: http://farrp.unl.edu/reg-sit-food-allergens "http://farrp.unl.edu/reg-sit-food-allergens"
@@ -134,3 +137,6 @@ ref: links
 [69]: https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi  "https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi"
 [70]: https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants "https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants"
 [71]: https://klimakompasset.dk/klimakompasset/ "https://klimakompasset.dk/klimakompasset/"
+[72]: https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet "[[71]:](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet)https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet"
+[73]: https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search "https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search "
+[74]: https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/tilsaetninger "https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/tilsaetninger"
