@@ -120,6 +120,6 @@ ref: links
 [65]: http://www.eucode.info/ "http://www.eucode.info/"
 [66]: http://www.brcdirectory.co.uk/ "http://www.brcdirectory.co.uk/"
 [67]: hhttps://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
-[68]:  https://www.ifs-certification.com/index.php/en/? "https://www.ifs-certification.com/index.php/en/?"
+[68]: https://www.ifs-certification.com/index.php/en/? "https://www.ifs-certification.com/index.php/en/?"
 [69]: https://ndb.nal.usda.gov/ndb/search/list "https://ndb.nal.usda.gov/ndb/search/list"
 [70]: http://frida.fooddata.dk/index.php?lang=en "http://frida.fooddata.dk/index.php?lang=en"
