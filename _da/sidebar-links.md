@@ -16,7 +16,7 @@ ref: links
 * [SEDEX][24]{:target="_blank"}
 * [EcoVadis][25]{:target="_blank"}
 * [ISO og Verdensmålene][26]{:target="_blank"}
-* [ISO26000 Social Responsibility] [75]{:target="_blank"}
+* [ISO26000 Social Responsibility][75]{:target="_blank"}
 * [Cirkulær Økonomi - Generel Introduktion][27]{:target="_blank"}
 * [Cirkulær Økonomi i Fødevarekæden][28]{:target="_blank"}
 * [ESG Taksonomi] [69]{:target="_blank"}
