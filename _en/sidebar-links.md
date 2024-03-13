@@ -62,7 +62,7 @@ ref: links
 
 ### Authorized Food Manufactures in Europe and GFSI certified companies
 
-* [Approved EU food establishments][64]{:target="_blank"}
+* [Approved Organic EU food establishments][64]{:target="_blank"}
 * [Search for an apporved food manufacture][65]{:target="_blank"}
 * [BRC certified companies][66]{:target="_blank"}
 * [FSSC 22000 Certificates Directory][67]{:target="_blank"}
@@ -84,8 +84,8 @@ ref: links
 [29]: https://www.bsigroup.com/en-GB/standards/benefits-of-using-standards/becoming-more-sustainable-with-standards/BS8001-Circular-Economy/ "https://www.bsigroup.com/en-GB/standards/benefits-of-using-standards/becoming-more-sustainable-with-standards/BS8001-Circular-Economy/"
 [30]: https://circulareconomy.fooddrinkeurope.eu/manufacturing/ "https://circulareconomy.fooddrinkeurope.eu/manufacturing/"
 [31]: /assets/images/00%20About.jpg#w255#pull-right "00 About"
-[32]: https://www.foedevarestyrelsen.dk/Sider/forside.aspx "https://www.foedevarestyrelsen.dk/Sider/forside.aspx"
-[33]: http://ec.europa.eu/food/index_en.htm "http://ec.europa.eu/food/index_en.htm"
+[32]: https://foedevarestyrelsen.dk/ "https://foedevarestyrelsen.dk/"
+[33]: https://food.ec.europa.eu/safety_en "https://food.ec.europa.eu/safety_en"
 [34]: http://farrp.unl.edu/reg-sit-food-allergens "http://farrp.unl.edu/reg-sit-food-allergens"
 [35]: http://ec.europa.eu/food/safety/rasff/index_en.htm "http://ec.europa.eu/food/safety/rasff/index_en.htm"
 [36]: https://ec.europa.eu/knowledge4policy/food-fraud-quality_en "https://ec.europa.eu/knowledge4policy/food-fraud-quality_en"
@@ -116,10 +116,10 @@ ref: links
 [61]: http://www.legislation.gov.uk/ "http://www.legislation.gov.uk/"
 [62]: http://www.gesetze-im-internet.de/index.html "http://www.gesetze-im-internet.de/index.html"
 [63]: http://eur-lex.europa.eu/RECH_legislation.do?ihmlang=en "http://eur-lex.europa.eu/RECH_legislation.do?ihmlang=en"
-[64]: http://ec.europa.eu/food/safety/biosafety/food_hygiene/eu_food_establishments/index_en.htm "http://ec.europa.eu/food/safety/biosafety/food_hygiene/eu_food_establishments/index_en.htm"
+[64]: https://webgate.ec.europa.eu/tracesnt/directory/publication/organic-operator/index# "https://webgate.ec.europa.eu/tracesnt/directory/publication/organic-operator/index#"
 [65]: http://www.eucode.info/ "http://www.eucode.info/"
 [66]: http://www.brcdirectory.co.uk/ "http://www.brcdirectory.co.uk/"
-[67]: https://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
-[68]: https://www.ifs-certification.com/index.php/en/?SID=204a0cb9a0fc3e8bfecf4f8de4f93d98&page=home&content=pruefinstitute_detail&desc=institutes&language=english&id=362 "https://www.ifs-certification.com/index.php/en/?SID=204a0cb9a0fc3e8bfecf4f8de4f93d98&page=home&content=pruefinstitute_detail&desc=institutes&language=english&id=362"
+[67]: hhttps://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
+[68]:  https://www.ifs-certification.com/index.php/en/? "https://www.ifs-certification.com/index.php/en/?"
 [69]: https://ndb.nal.usda.gov/ndb/search/list "https://ndb.nal.usda.gov/ndb/search/list"
 [70]: http://frida.fooddata.dk/index.php?lang=en "http://frida.fooddata.dk/index.php?lang=en"
