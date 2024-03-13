@@ -16,6 +16,7 @@ ref: links
 * [SEDEX][25]{:target="_blank"}
 * [EcoVadis][26]{:target="_blank"}
 * [ISO and SDG][27]{:target="_blank"}
+* [ISO26000 Social Responsibility][71]{:target="_blank"}
 * [Circular Economy - Generel Introduction][28]{:target="_blank"}
 * [BSI on Circular Economy][29]{:target="_blank"}
 * [Circular Economy in the Food Chain][30]{:target="_blank"}
@@ -123,3 +124,4 @@ ref: links
 [68]: https://www.ifs-certification.com/index.php/en/? "https://www.ifs-certification.com/index.php/en/?"
 [69]: https://ndb.nal.usda.gov/ndb/search/list "https://ndb.nal.usda.gov/ndb/search/list"
 [70]: http://frida.fooddata.dk/index.php?lang=en "http://frida.fooddata.dk/index.php?lang=en"
+[71]:https://www.iso.org/iso-26000-social-responsibility.html "https://www.iso.org/iso-26000-social-responsibility.html"
