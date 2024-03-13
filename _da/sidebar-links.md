@@ -16,6 +16,7 @@ ref: links
 * [SEDEX][24]{:target="_blank"}
 * [EcoVadis][25]{:target="_blank"}
 * [ISO og Verdensmålene][26]{:target="_blank"}
+* [ISO26000 Social Responsibility] [75]{:target="_blank"}
 * [Cirkulær Økonomi - Generel Introduktion][27]{:target="_blank"}
 * [Cirkulær Økonomi i Fødevarekæden][28]{:target="_blank"}
 * [ESG Taksonomi] [69]{:target="_blank"}
@@ -132,7 +133,7 @@ ref: links
 [64]: http://ec.europa.eu/food/safety/biosafety/food_hygiene/eu_food_establishments/index_en.htm "http://ec.europa.eu/food/safety/biosafety/food_hygiene/eu_food_establishments/index_en.htm"
 [65]: http://www.eucode.info/ "http://www.eucode.info/"
 [66]: https://brcdirectory.co.uk/ "https://brcdirectory.co.uk/"
-[67]: https://www.ifs-certification.com/index.php/en/?SID=204a0cb9a0fc3e8bfecf4f8de4f93d98&page=home&content=pruefinstitute_detail&desc=institutes&language=english&id=362 "https://www.ifs-certification.com/index.php/en/?SID=204a0cb9a0fc3e8bfecf4f8de4f93d98&page=home&content=pruefinstitute_detail&desc=institutes&language=english&id=362"
+[67]: https://www.ifs-certification.com/index.php/en/? "https://www.ifs-certification.com/index.php/en/?"
 [68]: https://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
 [69]: https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi  "https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi"
 [70]: https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants "https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants"
@@ -140,3 +141,4 @@ ref: links
 [72]: https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet "[[71]:](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet)https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet"
 [73]: https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search "https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search "
 [74]: https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/tilsaetninger "https://foedevarestyrelsen.dk/kost-og-foedevarer/foedevaresikkerhed/tilsaetninger"
+[75]:https://www.iso.org/iso-26000-social-responsibility.html "https://www.iso.org/iso-26000-social-responsibility.html"
