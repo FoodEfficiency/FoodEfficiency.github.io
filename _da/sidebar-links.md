@@ -135,7 +135,7 @@ ref: links
 [66]: https://brcdirectory.co.uk/ "https://brcdirectory.co.uk/"
 [67]: https://www.ifs-certification.com/index.php/en/? "https://www.ifs-certification.com/index.php/en/?"
 [68]: https://www.fssc22000.com/certified-organizations/# "https://www.fssc22000.com/certified-organizations/#"
-[69]: https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi  "https://erhvervsstyrelsen.dk/vejledning-vejledning-om-esg-taksonomi"
+[69]: https://erhvervsstyrelsen.dk/opmaerkning-af-esg-noegletal-i-aarsrapporten "https://erhvervsstyrelsen.dk/opmaerkning-af-esg-noegletal-i-aarsrapporten"
 [70]: https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants "https://www.awe.gov.au/environment/protection/ozone/rac/global-warming-potential-values-hfc-refrigerants"
 [71]: https://klimakompasset.dk/klimakompasset/ "https://klimakompasset.dk/klimakompasset/"
 [72]: https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet "[[71]:](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet)https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/tjek-din-vandkvalitet"
