@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fødevarestyrelsens kontrolkampagne om fødevarekontaktmaterialer
+title:  Kontrolkampagne om fødevarekontaktmaterialer
 date:   2024-03-01 21:11:00 +0100
 permalink: news/kontrolkampagne
 tags: foodefficiency
