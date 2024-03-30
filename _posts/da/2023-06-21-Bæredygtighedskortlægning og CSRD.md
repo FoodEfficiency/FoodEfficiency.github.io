@@ -7,7 +7,7 @@ tags: foodefficiency
 ref: CSRD
 ---
 
-**Pas på med at (gen)opfinde den dybe tallerken..... **
+**Pas på med at (gen)opfinde den dybe tallerken.....**
 
 Pas på med at (gen)opfinde den dybe tallerken..... Særligt hvis du er ISO en certificeret virksomhed.
 
