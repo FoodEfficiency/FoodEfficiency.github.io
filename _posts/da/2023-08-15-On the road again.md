@@ -7,7 +7,6 @@ tags: foodefficiency
 ref: Road
 ---
 **On the road again.....**
-![On the road again_20230815](https://github.com/FoodEfficiency/FoodEfficiency.github.io/assets/75361000/257818d8-657d-4766-ad88-3cd1dd8e5788)
 
 En dejlig sommerferie i Danmark er ovre og det er skønt at være tilbage og ude hos kunderne. I går med fokus på Cookies, idag en dejlig cykeltur til Barrit mejeri med fokus på flødeost og ny mælkeemballage. 
 
@@ -22,3 +21,5 @@ De kommende måneder står bl.a. på;
 
 
 Og mon ikke vi kan knække koden til hvordan fødevaresikkerhed, effektiviet og bæredygtighed kan gå hånd i hånd og blive del af strategien hos fødevareproducenterne? I så fald kommer der et par webinarer herom. 
+
+![On the road again_20230815](https://github.com/FoodEfficiency/FoodEfficiency.github.io/assets/75361000/257818d8-657d-4766-ad88-3cd1dd8e5788)
