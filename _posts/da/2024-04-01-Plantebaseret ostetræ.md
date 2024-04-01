@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Det plantebaserede ostetræ
-date:   2024-04-11 05:11:00 +0100
+date:   2024-04-01 05:11:00 +0100
 permalink: news/Ostetræ
 tags: foodefficiency
 ref: Ostetræ
