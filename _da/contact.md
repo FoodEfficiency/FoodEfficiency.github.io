@@ -11,7 +11,7 @@ ref: contact
 <div class="contact-inner">
 <div class="pull-right w50">
   <h3 class="brand">Food<span>Efficiency</span></h3>
-  <p>Jessensgade 1, 3. sal<br>DK-8700 Horsens</p>
+  <p>Levysgade 12, 3. sal<br>DK-8700 Horsens</p>
   <p>Tel: +45 2987 8494</p>
   <p>CVR: 34428832</p>
   <p>Eller send en besked via formularen, og vi vil vende tilbage snarest muligt.</p>
